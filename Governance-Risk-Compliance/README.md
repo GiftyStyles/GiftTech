@@ -14,5 +14,4 @@ I categorized security controls into three specific domains to ensure a defense-
 * **Physical/Operational:** Physical security such as badge readers and surveillance cameras.
 
 ## Deliverables
-* [View Completed Security Controls Assessment (PDF)](./security_controls_assessment_Botium_Toys.pdf)
-*
+* [View Completed Security Controls Assessment (PDF)]*
