@@ -28,7 +28,7 @@ I am a proactive technology professional focused on the critical intersection of
 ### [Linux: Package Management & Security Tools](./Linux-Labs/)
 * **Objective:** Managed software lifecycles in a Linux environment by using `APT` to install and verify security tools like Suricata and tcpdump.
 * **Key Skills:** Package-management, terminal-navigation, and system-security-updates.
-* **Evidence:** [View Lab Screenshot](./Linux-Labs/Linux-Installation-Success.png.png)
+* **Evidence:** [View Lab Screenshot](./Linux-Labs/Linux-Installation-Success.png)
 * **Certification:** [Google: Tools of the Trade](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
 
 
