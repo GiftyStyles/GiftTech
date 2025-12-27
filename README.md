@@ -20,7 +20,7 @@ I am a proactive technology professional focused on the critical intersection of
 * **Evidence:** [View Audit PDF](./Governance-Risk-Compliance/Controls%20and%20compliance%20checklist.pdf)
 *
 
-### Project Title: Name of Project
-* **Objective:** Briefly describe what you did and the tools used (e.g., Wireshark, Splunk).
-* **Evidence:** [Link Text Here](URL to your file or folder)
+### Network Traffic Analysis: Intrusion Detection
+* **Objective:** Analyzed network packets using Wireshark to identify suspicious patterns, unauthorized access attempts, and potential malware beacons.
+* **Evidence:** [View Traffic Analysis PDF](.Network-Traffic-Analysis-Report.pdf)
 *
