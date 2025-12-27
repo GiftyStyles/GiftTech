@@ -11,3 +11,11 @@ I am a proactive technology professional focused on the critical intersection of
 - **Google Cybersecurity Professional Certificate** (Complete suite of 8 specialized courses)
 - **Python for Security Automation**
 - **FCO-U71
+
+---
+## 📁 Featured Projects
+
+### [Security Controls Assessment: Botium Toys](./Governance-Risk-Compliance/)
+* **Objective:** Conducted an audit to find security gaps using the NIST framework.
+* **Evidence:** [View Audit PDF](./Governance-Risk-Compliance/Controls%20and%20compliance%20checklist.pdf)
+*
