@@ -19,3 +19,8 @@ I am a proactive technology professional focused on the critical intersection of
 * **Objective:** Conducted an audit to find security gaps using the NIST framework.
 * **Evidence:** [View Audit PDF](./Governance-Risk-Compliance/Controls%20and%20compliance%20checklist.pdf)
 *
+
+### Project Title: Name of Project
+* **Objective:** Briefly describe what you did and the tools used (e.g., Wireshark, Splunk).
+* **Evidence:** [Link Text Here](URL to your file or folder)
+*
