@@ -21,4 +21,4 @@ I am a proactive technology professional focused on the critical intersection of
 
 ### [Network Traffic Analysis: DNS & ICMP Troubleshooting](./Network-Traffic-Analysis-Report.pdf)
 * **Objective:** Used tcpdump to analyze network layer communication and troubleshoot "destination port unreachable" errors by identifying DNS issues over UDP port 53.
-* **Evidence:** [View Traffic Analysis PDF](./Network-Traffic-Analysis-Report.pdf)
+* **Evidence:** [View Traffic Analysis PDF](./Network-Security/Network-Traffic-Analysis-Report.pdf)
