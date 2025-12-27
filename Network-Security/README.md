@@ -9,5 +9,5 @@ I analyzed network traffic logs to investigate a connectivity issue where users 
 * **Incident Documentation:** Drafted a professional report summarizing findings and root causes.
 
 ## Evidence
-* [View Full Technical Report (PDF)](./Network-Traffic-Analysis.pdf)
+* [View Full Technical Report (PDF)](./Network-Traffic-Analysis-Report.pdf)
 *
