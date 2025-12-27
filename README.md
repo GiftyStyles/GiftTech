@@ -19,6 +19,6 @@ I am a proactive technology professional focused on the critical intersection of
 * **Objective:** Conducted an audit to find security gaps using the NIST framework.
 * **Evidence:** [View Audit PDF](./Governance-Risk-Compliance/Controls%20and%20compliance%20checklist.pdf)
 
-### [Network Traffic Analysis: DNS & ICMP Troubleshooting](./Network-Traffic-Analysis-Report.pdf)
+### [Network Traffic Analysis: DNS & ICMP Troubleshooting](./Network-Security/Network-Traffic-Analysis-Report.pdf)
 * **Objective:** Used tcpdump to analyze network layer communication and troubleshoot "destination port unreachable" errors by identifying DNS issues over UDP port 53.
 * **Evidence:** [View Traffic Analysis PDF](./Network-Security/Network-Traffic-Analysis-Report.pdf)
