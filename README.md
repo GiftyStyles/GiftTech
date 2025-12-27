@@ -18,9 +18,8 @@ I am a proactive technology professional focused on the critical intersection of
 ### [Security Controls Assessment: Botium Toys](./Governance-Risk-Compliance/)
 * **Objective:** Conducted an audit to find security gaps using the NIST framework.
 * **Evidence:** [View Audit PDF](./Governance-Risk-Compliance/Controls%20and%20compliance%20checklist.pdf)
-*
 
 ### Network Traffic Analysis: Intrusion Detection
 * **Objective:** Analyzed network packets using Wireshark to identify suspicious patterns, unauthorized access attempts, and potential malware beacons.
 * **Evidence:** [View Traffic Analysis PDF](.Network-Traffic-Analysis-Report.pdf)
-*
+
