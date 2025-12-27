@@ -18,7 +18,10 @@ I am a proactive technology professional focused on the critical intersection of
 ### [Security Controls Assessment: Botium Toys](./Governance-Risk-Compliance/)
 * **Objective:** Conducted an audit to find security gaps using the NIST framework.
 * **Evidence:** [View Audit PDF](./Governance-Risk-Compliance/Controls%20and%20compliance%20checklist.pdf)
+* **Certification:** [Google: Play It Safe - Manage Security Risks](./Governance-Risk-Compliance/Google-Certificate-Play-It-Safe.pdf)
 
 ### [Network Traffic Analysis: DNS & ICMP Troubleshooting](./Network-Security/Network-Traffic-Analysis-Report.pdf)
 * **Objective:** Used tcpdump to analyze network layer communication and troubleshoot "destination port unreachable" errors by identifying DNS issues over UDP port 53.
 * **Evidence:** [View Traffic Analysis PDF](./Network-Security/Network-Traffic-Analysis-Report.pdf)
+* **Certification:** [Google: Connect and Protect - Network Security](./Network-Security/Google-Certificate-Network-Security.pdf)
+
