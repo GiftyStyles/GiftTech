@@ -20,6 +20,13 @@ I am a proactive technology professional focused on the critical intersection of
 * **Evidence:** [View Audit PDF](./Governance-Risk-Compliance/Controls%20and%20compliance%20checklist.pdf)
 * **Certification:** [Google: Play It Safe - Manage Security Risks](./Governance-Risk-Compliance/Google-Certificate-Play-It-Safe.pdf)
 
+### [Linux: Package Management & Security Tools](./Linux-Labs/)
+* **Objective:** Managed software lifecycles in a Linux environment by using `APT` to install and verify security tools like Suricata and tcpdump.
+* **Key Skills:** Package-management, terminal-navigation, and system-security-updates.
+* **Evidence:** [View Lab Screenshot](./Linux-Labs/Linux-Installation-Success.png)
+* **Certification:** [Google: Tools of the Trade](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
+
+
 ### [Network Traffic Analysis: DNS & ICMP Troubleshooting](./Network-Security/Network-Traffic-Analysis-Report.pdf)
 * **Objective:** Used tcpdump to analyze network layer communication and troubleshoot "destination port unreachable" errors by identifying DNS issues over UDP port 53.
 * **Evidence:** [View Traffic Analysis PDF](./Network-Security/Network-Traffic-Analysis-Report.pdf)
