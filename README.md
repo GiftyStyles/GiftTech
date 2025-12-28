@@ -45,7 +45,7 @@ This project serves as a comprehensive technical portfolio demonstrating my abil
 ### 🛡️ Access Control & Identity (Labs 1, 2)
 * **Objective:** Enforce the Principle of Least Privilege (PoLP).
 * **Action:** Managed user accounts and modified file permissions/ownership.
-* **Evidence:** ![Access Control](./Linux-Labs/01_Linux_Access_Control_Permissions.png)
+* **Evidence:** ![Access Control](./Linux-Labs/​01_Linux_Access_Control_Permissions.png)
   ![Identity Management](./Linux-Labs/02_Linux_Identity_Management_Users.png)
 
 ### ⚙️ System Hardening & Maintenance (Lab 3)
