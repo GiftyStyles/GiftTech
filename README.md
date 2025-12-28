@@ -34,7 +34,7 @@ This project serves as a comprehensive technical portfolio demonstrating my abil
 ---
 
 ## 📜 Professional Certification
-[Google Certificate](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
+![Google Certificate](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
 *Official validation of skills in Linux, SQL, and Security Operations.*
 
 ---
@@ -83,4 +83,3 @@ This project serves as a comprehensive technical portfolio demonstrating my abil
 * **Languages:** Bash Scripting, SQL
 * **Security Tools:** APT, Grep, Chmod/Chown
 * **Methodology:** Principle of Least Privilege, Data Normalization, Log Auditing
-
