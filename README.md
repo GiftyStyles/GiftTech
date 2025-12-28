@@ -56,7 +56,7 @@ This project serves as a comprehensive technical portfolio demonstrating my abil
 ### 🔍 Incident Response & Log Analysis (Lab 4)
 * **Objective:** Hunt for malicious activity within system logs.
 * **Action:** Filtered large datasets using `grep` to isolate security events.
-* **Evidence:** ![Log Filtering](./Linux-Labs/04_Log_Analysis_Grep_Filtering.png)
+* **Evidence:** ![Log Filtering](./Linux-Labs/​04_Log_Analysis_Grep_Filtering.png)
 
 ### 📁 Linux Foundations (Labs 5, 6)
 * **Skills:** Proficient in **File Management** (mv, cp, rm), **Finding Files** (find, locate), and **Technical Documentation** (man pages).
