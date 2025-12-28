@@ -120,7 +120,7 @@ Click below to view the official PDF certifications.
 > **Objective:** Identify unauthorized access attempts and suspicious patterns within a relational database.
 
 * **Action:** Wrote SQL queries using `WHERE` clauses and `LIKE` wildcards to filter access logs for security auditing.
-* **Evidence:** ![Basic Query](./Linux-Labs/05a_SQL_Basic_Query.png)
+* **Evidence:** ![Basic Query](./Linux-Labs/​05a_SQL_Basic_Query.png)
   ![Data Filtering](./Linux-Labs/05b_SQL_Data_Filtering.png)
   ![Advanced Filters](./Linux-Labs/05c_SQL_Advanced_Filters.png)
 
