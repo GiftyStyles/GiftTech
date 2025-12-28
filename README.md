@@ -42,6 +42,20 @@ Click below to view the official PDF certifications.
 * **Certification:** [🏅 Google: Connect and Protect - Network Security](./Network-Security/Google-Certificate-Network-Security.pdf)
 
 ---
+
+# 🛡️ Google Cybersecurity Professional: Linux & SQL Security Project
+*Verified Credential:* [Google Certificate: Tools of the Trade](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
+
+## 📋 Project Overview
+This project serves as a comprehensive technical portfolio demonstrating my ability to secure Linux systems and perform data forensics using SQL. This work was completed as part of the *Google Cybersecurity Professional Certificate*.
+
+---
+
+## 📜 Professional Certification
+![Google Certificate](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
+Official validation of skills in Linux, SQL, and Security Operations.
+
+
 ## 🐧 1. Linux System Security & Administration
 ---
 
