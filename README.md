@@ -69,7 +69,7 @@ This project serves as a comprehensive technical portfolio demonstrating my abil
 ### 🔎 Data Extraction & Filtering (Labs 7, 8, 9)
 * **Objective:** Identify unauthorized access attempts within a database.
 * **Action:** Wrote SQL queries using `WHERE` clauses and `LIKE` wildcards.
-* **Evidence:** ![Basic Query](./Linux-Labs/05a_SQL_Basic_Query.png)
+* **Evidence:** ![Basic Query](./Linux-Labs/​05a_SQL_Basic_Query.png)
   ![Data Filtering](./Linux-Labs/05b_SQL_Data_Filtering.png)
   ![Advanced Filters](./Linux-Labs/05c_SQL_Advanced_Filters.png)
 
