@@ -20,17 +20,28 @@ Click below to view the official PDF certifications.
 
 ---
 ## 📁 Featured Projects
-A selection of high-impact security assessments and technical deep-dives.
 
-| 🛡️ Governance, Risk & Compliance | 🌐 Network Security & Analysis |
-| :--- | :--- |
-| *Security Controls Assessment: Botium Toys* | *Traffic Analysis: DNS & ICMP Troubleshooting* |
-| Conducted an audit to identify security gaps using the *NIST CSF* framework to ensure organizational compliance. | Utilized tcpdump to analyze network layer communication and resolve *UDP port 53* connectivity issues. |
-| [📄 View Audit PDF](./Governance-Risk-Compliance/Controls%20and%20compliance%20checklist.pdf) | [📄 View Traffic Report](./Network-Security/Network-Traffic-Analysis-Report.pdf) |
-| [🏅 View Certification](./Governance-Risk-Compliance/Google-Certificate-Play-It-Safe.pdf) | [🏅 View Certification](./Network-Security/Google-Certificate-Network-Security.pdf) |
+### 🛡️ **Security Controls Assessment: Botium Toys**
+**Governance, Risk & Compliance**
+
+> **Objective:** Conducted a comprehensive internal audit to identify security gaps and misalignments using the **NIST Cybersecurity Framework (CSF)**.
+
+* **Action:** Evaluated current security posture against industry standards to ensure organizational compliance.
+* **Evidence:** [📄 View Audit & Compliance Checklist](./Governance-Risk-Compliance/Controls%20and%20compliance%20checklist.pdf)
+* **Certification:** [🏅 Google: Play It Safe - Manage Security Risks](./Governance-Risk-Compliance/Google-Certificate-Play-It-Safe.pdf)
+
+<br>
+
+### 🌐 **Network Traffic Analysis: DNS & ICMP Troubleshooting**
+**Network Security & Forensics**
+
+> **Objective:** Utilized `tcpdump` to capture and analyze network layer communication to resolve connectivity issues.
+
+* **Action:** Successfully identified "destination port unreachable" errors by isolating DNS issues on **UDP Port 53**.
+* **Evidence:** [📄 View Traffic Analysis Report](./Network-Security/Network-Traffic-Analysis-Report.pdf)
+* **Certification:** [🏅 Google: Connect and Protect - Network Security](./Network-Security/Google-Certificate-Network-Security.pdf)
 
 ---
-
 # 🛡️ Google Cybersecurity Professional: Linux & SQL Security Project
 **Verified Credential:** [Google Certificate: Tools of the Trade](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
 
