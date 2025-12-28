@@ -20,16 +20,16 @@ Click below to view the official PDF certifications.
 
 ---
 ## 📁 Featured Projects
+A selection of high-impact security assessments and technical deep-dives.
 
-### [Security Controls Assessment: Botium Toys](./Governance-Risk-Compliance/)
-* **Objective:** Conducted an audit to find security gaps using the NIST framework.
-* **Evidence:** [View Audit PDF](./Governance-Risk-Compliance/Controls%20and%20compliance%20checklist.pdf)
-* **Certification:** [Google: Play It Safe - Manage Security Risks](./Governance-Risk-Compliance/Google-Certificate-Play-It-Safe.pdf)
+| 🛡️ Governance, Risk & Compliance | 🌐 Network Security & Analysis |
+| :--- | :--- |
+| *Security Controls Assessment: Botium Toys* | *Traffic Analysis: DNS & ICMP Troubleshooting* |
+| Conducted an audit to identify security gaps using the *NIST CSF* framework to ensure organizational compliance. | Utilized tcpdump to analyze network layer communication and resolve *UDP port 53* connectivity issues. |
+| [📄 View Audit PDF](./Governance-Risk-Compliance/Controls%20and%20compliance%20checklist.pdf) | [📄 View Traffic Report](./Network-Security/Network-Traffic-Analysis-Report.pdf) |
+| [🏅 View Certification](./Governance-Risk-Compliance/Google-Certificate-Play-It-Safe.pdf) | [🏅 View Certification](./Network-Security/Google-Certificate-Network-Security.pdf) |
 
-### [Network Traffic Analysis: DNS & ICMP Troubleshooting](./Network-Security/Network-Traffic-Analysis-Report.pdf)
-* **Objective:** Used tcpdump to analyze network layer communication and troubleshoot "destination port unreachable" errors by identifying DNS issues over UDP port 53.
-* **Evidence:** [View Traffic Analysis PDF](./Network-Security/Network-Traffic-Analysis-Report.pdf)
-* **Certification:** [Google: Connect and Protect - Network Security](./Network-Security/Google-Certificate-Network-Security.pdf)
+---
 
 # 🛡️ Google Cybersecurity Professional: Linux & SQL Security Project
 **Verified Credential:** [Google Certificate: Tools of the Trade](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
