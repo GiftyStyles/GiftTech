@@ -86,3 +86,78 @@ This project serves as a comprehensive technical portfolio demonstrating my abil
 * **Languages:** Bash Scripting, SQL
 * **Security Tools:** APT, Grep, Chmod/Chown
 * **Methodology:** Principle of Least Privilege, Data Normalization, Log Auditing
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+# 🛡️ THE CYBERSECURITY ANALYST'S TOOLKIT
+### *Linux Administration & SQL Data Forensics Portfolio*
+
+[![Status](https://img.shields.io/badge/Status-Active_Portfolio-green?style=for-the-badge)](#)
+[![Skills](https://img.shields.io/badge/Skills-Linux_%7C_SQL_%7C_Forensics-blue?style=for-the-badge)](#)
+
+---
+
+## 📜 Verified Professional Credentials
+*Click below to view the official PDF certifications.*
+
+| Google Cybersecurity Professional | IT Fundamentals (FC0-U61) |
+| :---: | :---: |
+| <img src="./Linux-Labs/Google-Certificate-Tools-of-the-Trade.png" width="250"> | <img src="https://img.icons8.com/color/144/udemy.png" width="80"><br>**Udemy Training** |
+| [📂 View Google PDF](./Google-Cybersecurity-Professional-Certificate.pdf) | [📂 View Udemy PDF](./CompTIA-IT-Fundamentals-FC0-U61-Udemy.pdf) |
+
+</div>
+
+---
+
+## 🐧 1. Linux System Security & Administration
+> *Utilizing the Linux CLI to enforce the Principle of Least Privilege (PoLP) and investigate system logs.*
+
+### 🛡️ Access Control & Identity
+* **Objective:** Managed user accounts and modified file permissions to secure the environment.
+* **Evidence:**
+  ![Access Control](./Linux-Labs/01_Linux_Access_Control_Permissions.png)
+  ![Identity Management](./Linux-Labs/02_Linux_Identity_Management_Users.png)
+
+### ⚙️ System Hardening & Maintenance
+* **Action:** Used `APT` package manager to install and verify security tools.
+* **Evidence:** ![Installation](./Linux-Labs/03_Linux_System_Hardening_Installation.png)
+
+### 🔍 Incident Response & Log Analysis
+* **Action:** Filtered large datasets using `grep` to isolate security events.
+* **Evidence:** ![Log Filtering](./Linux-Labs/04_Log_Analysis_Grep_Filtering.png)
+
+---
+
+## 📊 2. SQL Database Auditing & Forensics
+> *Performing relational database queries to audit access logs and track threat actor activity.*
+
+### 🔎 Data Extraction & Filtering
+* **Action:** Identified unauthorized access attempts using `WHERE` clauses and `LIKE` wildcards.
+* **Evidence:** ![SQL Auditing](./Linux-Labs/05_SQL_Database_Security_Auditing.png)
+
+### 🔗 Advanced Correlation & Logic
+* **Action:** Utilized `AND/OR/NOT` logic and `INNER JOIN` to link user and login tables.
+* **Evidence:** ![SQL Joins](./Linux-Labs/06_Advanced_SQL_Data_Correlation_JOINs.png)
+
+---
+
+## 🛠️ Technical Toolkit
+| Category | Tools & Skills |
+| :--- | :--- |
+| **OS** | Linux (Ubuntu/Debian), Bash CLI |
+| **Data** | SQL (Relational Queries, Joins, Filtering) |
+| **Security** | PoLP, Log Auditing, System Hardening, Grep Forensics |
+
+<br>
+
+<div align="center">
+  <sub>This portfolio is part of the Google Cybersecurity Professional program. 🛡️</sub>
+</div>
