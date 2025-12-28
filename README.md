@@ -25,67 +25,64 @@ I am a proactive technology professional focused on the critical intersection of
 * **Evidence:** [View Traffic Analysis PDF](./Network-Security/Network-Traffic-Analysis-Report.pdf)
 * **Certification:** [Google: Connect and Protect - Network Security](./Network-Security/Google-Certificate-Network-Security.pdf)
 
-# Linux and SQL Security Foundations
-**Certification:** [Google: Tools of the Trade](./Google-Certificate-Tools-of-the-Trade.pdf)
+# 🛡️ Google Cybersecurity Professional: Linux & SQL Security Project
+**Verified Credential:** [Google Certificate: Tools of the Trade](./Google-Certificate-Tools-of-the-Trade.png)
 
-## 🛡️ Project Overview
-This repository documents my technical proficiency in Linux system administration and SQL data auditing. These projects demonstrate the practical application of security principles—such as the Principle of Least Privilege and data forensics—acquired through the Google Cybersecurity Professional program.
+## 📋 Project Overview
+This project serves as a comprehensive technical portfolio demonstrating my ability to secure Linux systems and perform data forensics using SQL. This work was completed as part of the **Google Cybersecurity Professional Certificate**.
 
 ---
 
-## 📜 Official Certification
+## 📜 0. Professional Certification
 ![Google Certificate](./Google-Certificate-Tools-of-the-Trade.png)
-*View the full PDF version [here](./Google-Certificate-Tools-of-the-Trade.pdf).*
+*Official validation of skills in Linux, SQL, and Security Operations.*
 
 ---
 
-## 🛠️ Part 1: Linux Administration & System Hardening
-*Demonstrating the ability to secure a Linux environment and manage system assets.*
+## 🐧 1. Linux System Security & Administration
+*I utilized the Linux Command Line (CLI) to manage users, enforce security policies, and investigate system logs.*
 
-### 1. Access Control & Permissions
-![Access Control](./01_Linux_Access_Control_Permissions.png)
-* **Goal:** Enforcing the Principle of Least Privilege (PoLP).
-* **Skills:** Utilizing `chmod` and `chown` to secure sensitive files and directories.
+### 🛡️ Access Control & Identity (Labs 1, 2)
+* **Objective:** Enforce the Principle of Least Privilege (PoLP).
+* **Action:** Managed user accounts and modified file permissions/ownership.
+* **Evidence:** ![Access Control](./01_Linux_Access_Control_Permissions.png)
+  ![Identity Management](./02_Linux_Identity_Management_Users.png)
 
-### 2. Identity Management
-![User Management](./02_Linux_Identity_Management_Users.png)
-* **Goal:** Managing system access.
-* **Skills:** Adding/managing users and groups to ensure only authorized personnel have system entry.
+### ⚙️ System Hardening & Maintenance (Lab 3)
+* **Objective:** Secure the system by managing software and updates.
+* **Action:** Used `APT` package manager to install and verify security tools.
+* **Evidence:** ![Installation](./03_Linux_System_Hardening_Installation.png)
 
-### 3. System Hardening & Package Management
-![Installation Success](./03_Linux_System_Hardening_Installation.png)
-* **Goal:** Managing software lifecycles and security tools.
-* **Skills:** Using `APT` to install, verify, and update security packages like Suricata.
+### 🔍 Incident Response & Log Analysis (Lab 4)
+* **Objective:** Hunt for malicious activity within system logs.
+* **Action:** Filtered large datasets using `grep` to isolate security events.
+* **Evidence:** ![Log Filtering](./04_Log_Analysis_Grep_Filtering.png)
 
-### 4. Log Analysis & Threat Hunting
-![Grep Filtering](./04_Log_Analysis_Grep_Filtering.png)
-* **Goal:** Incident response and log auditing.
-* **Skills:** Filtering massive log files using `grep` to isolate suspicious events or errors.
-
----
-
-## 🔍 Part 2: SQL Data Auditing & Forensics
-*Demonstrating the ability to query, filter, and correlate security data.*
-
-### 5. Database Auditing & Filtering
-![Basic Query](./05a_SQL_Basic_Query.png)
-![Data Filtering](./05b_SQL_Data_Filtering.png)
-![Advanced Filters](./05c_SQL_Advanced_Filters.png)
-* **Goal:** Extracting security-relevant data from relational databases.
-* **Skills:** Running queries to audit user activity and applying filters to isolate specific security timestamps.
-
-### 6. Advanced Correlation & Logic
-![Logic Operators](./06a_SQL_Logic_Operators.png)
-![Relational Joins](./06b_SQL_Relational_Joins.png)
-* **Goal:** Identifying complex threats across multiple data sources.
-* **Skills:** Using `AND`, `OR`, `NOT`, and `INNER JOIN` to correlate disparate data points (e.g., matching user IDs to login locations).
+### 📁 Linux Foundations (Labs 5, 6)
+* **Skills:** Proficient in **File Management** (mv, cp, rm), **Finding Files** (find, locate), and **Technical Documentation** (man pages).
 
 ---
 
-## 🏗️ Part 3: Core Technical Competencies
-*Additional skills demonstrated throughout these 11 labs:*
+## 📊 2. SQL Database Auditing & Forensics
+*I performed relational database queries to audit access logs and correlate data during security investigations.*
 
-* **File System Navigation:** Expert use of `cd`, `ls`, and pathing.
-* **Search Optimization:** Utilizing `find` and `locate` to track system configurations.
-* **Technical Documentation:** Using `man` pages and `--help` to implement new command-line tools.
-*
+### 🔎 Data Extraction & Filtering (Labs 7, 8, 9)
+* **Objective:** Identify unauthorized access attempts within a database.
+* **Action:** Wrote SQL queries using `WHERE` clauses and `LIKE` wildcards.
+* **Evidence:** ![Basic Query](./05a_SQL_Basic_Query.png)
+  ![Data Filtering](./05b_SQL_Data_Filtering.png)
+  ![Advanced Filters](./05c_SQL_Advanced_Filters.png)
+
+### 🔗 Advanced Correlation & Logic (Labs 10, 11)
+* **Objective:** Link disparate data sources to track threat actors.
+* **Action:** Utilized `AND/OR/NOT` logic and `INNER JOIN` to merge user and login tables.
+* **Evidence:** ![Logic Operators](./06a_SQL_Logic_Operators.png)
+  ![Relational Joins](./06b_SQL_Relational_Joins.png)
+
+---
+
+## 🛠️ Tools & Technologies Used
+* **Operating System:** Linux (Ubuntu/Debian-based)
+* **Languages:** Bash Scripting, SQL
+* **Security Tools:** APT, Grep, Chmod/Chown
+* **Methodology:** Principle of Least Privilege, Data Normalization, Log Auditing
