@@ -45,20 +45,28 @@ Click below to view the official PDF certifications.
 
 ---
 
-## 🛡️ Google Cybersecurity Professional: Linux & SQL Security Project
-*Verified Credential:* [Google Certificate: Tools of the Trade](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
+# 🛡️ Google Cybersecurity Professional: Linux & SQL Security Project
 
-## 📋 Project Overview
-This project serves as a comprehensive technical portfolio demonstrating my ability to secure Linux systems and perform data forensics using SQL. This work was completed as part of the *Google Cybersecurity Professional Certificate*.
-
+**Verified Credential:** [📄 Google Certificate: Tools of the Trade](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
 
 ---
 
+## 📋 Project Overview
+> This project serves as a comprehensive technical portfolio demonstrating my ability to secure Linux systems and perform data forensics using SQL. This work was completed as part of the **Google Cybersecurity Professional Certificate**.
 
+---
 
 ## 📜 Professional Certification
-![Google Certificate](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
-Official validation of skills in Linux, SQL, and Security Operations.
+
+<div align="center">
+  <img src="https://img.icons8.com/color/144/google-logo.png" width="80">
+  <br>
+  **Google Certificate**
+  <br>
+  *Official validation of skills in Linux, SQL, and Security Operations.*
+</div>
+
+---
 
 
 ## 🐧 1. Linux System Security & Administration
