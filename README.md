@@ -41,10 +41,9 @@ Click below to view the official PDF certifications.
 * **Evidence:** [📄 View Traffic Analysis Report](./Network-Security/Network-Traffic-Analysis-Report.pdf)
 * **Certification:** [🏅 Google: Connect and Protect - Network Security](./Network-Security/Google-Certificate-Network-Security.pdf)
 
+
+
 ---
-
-
-
 
 ## 🛡️ Google Cybersecurity Professional: Linux & SQL Security Project
 *Verified Credential:* [Google Certificate: Tools of the Trade](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
