@@ -69,15 +69,12 @@ This project serves as a comprehensive technical portfolio demonstrating my abil
 ### 🔎 Data Extraction & Filtering (Labs 7, 8, 9)
 * **Objective:** Identify unauthorized access attempts within a database.
 * **Action:** Wrote SQL queries using `WHERE` clauses and `LIKE` wildcards.
-* **Evidence:** ![Basic Query](./Linux-Labs/05a_SQL_Basic_Query.png)
-  ![Data Filtering](./Linux-Labs/05b_SQL_Data_Filtering.png)
-  ![Advanced Filters](./Linux-Labs/05c_SQL_Advanced_Filters.png)
+* **Evidence:** ![SQL Database Security Auditing](./Linux-Labs/05_SQL_Database_Security_Auditing.png)
 
 ### 🔗 Advanced Correlation & Logic (Labs 10, 11)
 * **Objective:** Link disparate data sources to track threat actors.
 * **Action:** Utilized `AND/OR/NOT` logic and `INNER JOIN` to merge user and login tables.
-* **Evidence:** ![Logic Operators](./Linux-Labs/06a_SQL_Logic_Operators.png)
-  ![Relational Joins](./Linux-Labs/06b_SQL_Relational_Joins.png)
+* **Evidence:** ![Advanced SQL Data Correlation JOINs](./Linux-Labs/06_Advanced_SQL_Data_Correlation_JOINs.png)
 
 ---
 
