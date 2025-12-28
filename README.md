@@ -61,7 +61,7 @@ Click below to view the official PDF certifications.
 <div align="center">
   <img src="https://img.icons8.com/color/144/google-logo.png" width="80">
   <br>
-  **Google Certificate**
+  Google Certificate
   <br>
   *Official validation of skills in Linux, SQL, and Security Operations.*
 </div>
