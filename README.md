@@ -26,15 +26,15 @@ I am a proactive technology professional focused on the critical intersection of
 * **Certification:** [Google: Connect and Protect - Network Security](./Network-Security/Google-Certificate-Network-Security.pdf)
 
 # 🛡️ Google Cybersecurity Professional: Linux & SQL Security Project
-**Verified Credential:** [Google Certificate: Tools of the Trade](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.png)
+**Verified Credential:** [Google Certificate: Tools of the Trade](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
 
 ## 📋 Project Overview
 This project serves as a comprehensive technical portfolio demonstrating my ability to secure Linux systems and perform data forensics using SQL. This work was completed as part of the **Google Cybersecurity Professional Certificate**.
 
 ---
 
-## 📜 0. Professional Certification
-![Google Certificate](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.png)
+## 📜 Professional Certification
+![Google Certificate](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
 *Official validation of skills in Linux, SQL, and Security Operations.*
 
 ---
@@ -56,7 +56,7 @@ This project serves as a comprehensive technical portfolio demonstrating my abil
 ### 🔍 Incident Response & Log Analysis (Lab 4)
 * **Objective:** Hunt for malicious activity within system logs.
 * **Action:** Filtered large datasets using `grep` to isolate security events.
-* **Evidence:** ![Log Filtering](./Linux-Labs/04_Log_Analysis_Grep_Filtering.png)
+* **Evidence:** ![Log Filtering](./Linux-Labs/​04_Log_Analysis_Grep_Filtering.png)
 
 ### 📁 Linux Foundations (Labs 5, 6)
 * **Skills:** Proficient in **File Management** (mv, cp, rm), **Finding Files** (find, locate), and **Technical Documentation** (man pages).
