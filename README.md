@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🛡️ THE CYBERSECURITY ANALYST'S TOOLKIT
-### *Linux Administration & SQL Data Forensics Portfolio*
+### Linux Administration & SQL Data Forensics Portfolio
 
 [![Status](https://img.shields.io/badge/Status-Active_Portfolio-green?style=for-the-badge)](#)
 [![Skills](https://img.shields.io/badge/Skills-Linux_%7C_SQL_%7C_Forensics-blue?style=for-the-badge)](#)
@@ -9,23 +9,11 @@
 ---
 
 ## 📜 Verified Professional Credentials
-*Click below to view the official PDF certifications.*
+Click below to view the official PDF certifications.
 
 | Google Cybersecurity Professional | IT Fundamentals (FC0-U61) |
 | :---: | :---: |
-| <img src="./Linux-Labs/Google-Certificate-Tools-of-the-Trade.png" width="250"> | <img src="https://img.icons8.com/color/144/udemy.png" width="80"><br>**Udemy Training** |
-| [📂 View Google PDF](./Google-Cybersecurity-Professional-Certificate.pdf) | [📂 View Udemy PDF](./CompTIA-IT-Fundamentals-FC0-U61-Udemy.pdf) |
-
-</div>
-
----
-
-## 📜 Verified Professional Credentials
-*Click below to view the official PDF certifications.*
-
-| Google Cybersecurity Professional | IT Fundamentals (FC0-U61) |
-| :---: | :---: |
-| <img src="./Linux-Labs/Google-Certificate-Tools-of-the-Trade.png" width="250"> | <img src="https://img.icons8.com/color/144/udemy.png" width="80"><br>**Udemy Training** |
+| <img src="./Linux-Labs/Google-Certificate-Tools-of-the-Trade.png" width="250"> | <img src="https://img.icons8.com/color/144/udemy.png" width="80"><br>*Udemy Training* |
 | [📂 View Google PDF](./Google-Cybersecurity-Professional-Certificate.pdf) | [📂 View Udemy PDF](./CompTIA-IT-Fundamentals-FC0-U61-Udemy.pdf) |
 
 </div>
