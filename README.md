@@ -42,67 +42,72 @@ Click below to view the official PDF certifications.
 * **Certification:** [🏅 Google: Connect and Protect - Network Security](./Network-Security/Google-Certificate-Network-Security.pdf)
 
 ---
-# 🛡️ Google Cybersecurity Professional: Linux & SQL Security Project
-**Verified Credential:** [Google Certificate: Tools of the Trade](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
-
-## 📋 Project Overview
-This project serves as a comprehensive technical portfolio demonstrating my ability to secure Linux systems and perform data forensics using SQL. This work was completed as part of the **Google Cybersecurity Professional Certificate**.
-
----
-
-## 📜 Professional Certification
-![Google Certificate](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
-*Official validation of skills in Linux, SQL, and Security Operations.*
-
----
-
 ## 🐧 1. Linux System Security & Administration
-*I utilized the Linux Command Line (CLI) to manage users, enforce security policies, and investigate system logs.*
+---
 
-### 🛡️ Access Control & Identity (Labs 1, 2)
-* **Objective:** Enforce the Principle of Least Privilege (PoLP).
-* **Action:** Managed user accounts and modified file permissions/ownership.
+### 🛡️ **Access Control & Identity (Labs 1, 2)**
+**User Management & Permissions**
+
+> **Objective:** Enforce the Principle of Least Privilege (PoLP) by managing user access and system permissions.
+
+* **Action:** Created and managed user accounts and modified file permissions/ownership to secure the environment.
 * **Evidence:** ![Access Control](./Linux-Labs/01_Linux_Access_Control_Permissions.png)
   ![Identity Management](./Linux-Labs/02_Linux_Identity_Management_Users.png)
 
-### ⚙️ System Hardening & Maintenance (Lab 3)
-* **Objective:** Secure the system by managing software and updates.
-* **Action:** Used `APT` package manager to install and verify security tools.
+<br>
+
+### ⚙️ **System Hardening & Maintenance (Lab 3)**
+**Software & Update Security**
+
+> **Objective:** Secure the system by managing software installations and maintaining up-to-date security tools.
+
+* **Action:** Utilized the `APT` package manager to install, update, and verify the integrity of security tools.
 * **Evidence:** ![Installation](./Linux-Labs/03_Linux_System_Hardening_Installation.png)
 
-### 🔍 Incident Response & Log Analysis (Lab 4)
-* **Objective:** Hunt for malicious activity within system logs.
-* **Action:** Filtered large datasets using `grep` to isolate security events.
-* **Evidence:** ![Log Filtering](./Linux-Labs/​04_Log_Analysis_Grep_Filtering.png)
+<br>
 
-### 📁 Linux Foundations (Labs 5, 6)
-* **Skills:** Proficient in **File Management** (mv, cp, rm), **Finding Files** (find, locate), and **Technical Documentation** (man pages).
+### 🔍 **Incident Response & Log Analysis (Lab 4)**
+**Threat Hunting & Forensics**
+
+> **Objective:** Proactively hunt for malicious activity and unauthorized access patterns within system logs.
+
+* **Action:** Filtered large datasets using `grep` to isolate critical security events and identify potential threats.
+* **Evidence:** ![Log Filtering](./Linux-Labs/04_Log_Analysis_Grep_Filtering.png)
+
+<br>
+
+### 📁 **Linux Foundations (Labs 5, 6)**
+**Core Administration Skills**
+
+* **Skills:** Proficient in **File Management** (`mv`, `cp`, `rm`), **System Navigation** (`find`, `locate`), and **Technical Documentation** (`man` pages).
 
 ---
 
 ## 📊 2. SQL Database Auditing & Forensics
-*I performed relational database queries to audit access logs and correlate data during security investigations.*
+---
 
-### 🔎 Data Extraction & Filtering (Labs 7, 8, 9)
-* **Objective:** Identify unauthorized access attempts within a database.
-* **Action:** Wrote SQL queries using `WHERE` clauses and `LIKE` wildcards.
-* **Evidence:** ![Basic Query](./Linux-Labs/​05a_SQL_Basic_Query.png)
+### 🔎 **Data Extraction & Filtering (Labs 7, 8, 9)**
+**Database Auditing**
+
+> **Objective:** Identify unauthorized access attempts and suspicious patterns within a relational database.
+
+* **Action:** Wrote SQL queries using `WHERE` clauses and `LIKE` wildcards to filter access logs for security auditing.
+* **Evidence:** ![Basic Query](./Linux-Labs/05a_SQL_Basic_Query.png)
   ![Data Filtering](./Linux-Labs/05b_SQL_Data_Filtering.png)
   ![Advanced Filters](./Linux-Labs/05c_SQL_Advanced_Filters.png)
 
-### 🔗 Advanced Correlation & Logic (Labs 10, 11)
-* **Objective:** Link disparate data sources to track threat actors.
-* **Action:** Utilized `AND/OR/NOT` logic and `INNER JOIN` to merge user and login tables.
+<br>
+
+### 🔗 **Advanced Correlation & Logic (Labs 10, 11)**
+**Forensic Data Correlation**
+
+> **Objective:** Correlate disparate data sources to track threat actors and reconstruct security incidents.
+
+* **Action:** Utilized `AND/OR/NOT` logic and `INNER JOIN` operations to merge user data with login tables for deeper investigation.
 * **Evidence:** ![Logic Operators](./Linux-Labs/06a_SQL_Logic_Operators.png)
   ![Relational Joins](./Linux-Labs/06b_SQL_Relational_Joins.png)
 
 ---
-
-## 🛠️ Tools & Technologies Used
-* **Operating System:** Linux (Ubuntu/Debian-based)
-* **Languages:** Bash Scripting, SQL
-* **Security Tools:** APT, Grep, Chmod/Chown
-* **Methodology:** Principle of Least Privilege, Data Normalization, Log Auditing
 
 
 
