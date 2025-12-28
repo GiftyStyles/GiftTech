@@ -33,8 +33,8 @@ This project serves as a comprehensive technical portfolio demonstrating my abil
 
 ---
 
-## 📜 0. Professional Certification
-![Google Certificate](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
+## 📜 Professional Certification
+[Google Certificate](./Linux-Labs/Google-Certificate-Tools-of-the-Trade.pdf)
 *Official validation of skills in Linux, SQL, and Security Operations.*
 
 ---
