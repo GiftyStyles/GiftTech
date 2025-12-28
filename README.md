@@ -100,7 +100,7 @@ Click below to view the official PDF certifications.
 > **Objective:** Proactively hunt for malicious activity and unauthorized access patterns within system logs.
 
 * **Action:** Filtered large datasets using `grep` to isolate critical security events and identify potential threats.
-* **Evidence:** ![Log Filtering](./Linux-Labs/04_Log_Analysis_Grep_Filtering.png)
+* **Evidence:** ![Log Filtering](./Linux-Labs/​04_Log_Analysis_Grep_Filtering.png)
 
 <br>
 
