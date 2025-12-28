@@ -19,6 +19,18 @@
 </div>
 
 ---
+
+## 📜 Verified Professional Credentials
+*Click below to view the official PDF certifications.*
+
+| Google Cybersecurity Professional | IT Fundamentals (FC0-U61) |
+| :---: | :---: |
+| <img src="./Linux-Labs/Google-Certificate-Tools-of-the-Trade.png" width="250"> | <img src="https://img.icons8.com/color/144/udemy.png" width="80"><br>**Udemy Training** |
+| [📂 View Google PDF](./Google-Cybersecurity-Professional-Certificate.pdf) | [📂 View Udemy PDF](./CompTIA-IT-Fundamentals-FC0-U61-Udemy.pdf) |
+
+</div>
+
+---
 ## 📁 Featured Projects
 
 ### [Security Controls Assessment: Botium Toys](./Governance-Risk-Compliance/)
