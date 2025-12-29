@@ -11,11 +11,10 @@
 ## 📜 Verified Professional Credentials
 Click below to view the official PDF certifications.
 
-| Google Cybersecurity Professional | IT Fundamentals (FC0-U61) |
+| Google Cybersecurity Professional | IT Fundamentals (FC0-U71) |
 | :---: | :---: |
 | <img src="https://img.icons8.com/color/144/google-logo.png" width="80"> | <img src="https://img.icons8.com/color/144/udemy.png" width="80"><br>*Udemy Training* |
-| [📂 View Google PDF](./Google-Cybersecurity-Professional-Certificate.pdf) | [📂 View Udemy PDF](./![Uploading image.png…]()
-.jpy) |
+| [📂 View Google PDF](./Google-Cybersecurity-Professional-Certificate.pdf) | [📂 View Udemy PDF](./![Uploading image.png…](./CompTIA-IT-Fundamentals-FC0-U71-Udemy.pdf) |
 
 </div>
 
