@@ -139,34 +139,27 @@ Click below to view the official PDF certifications.
 
 
 # 📂 NIST-Aligned Risk & Governance Audit
-This folder contains the technical documentation for a formal security audit conducted on a data leak incident, mapped directly to **NIST SP 800-53** and the **NIST Cybersecurity Framework (CSF)**.
+This folder contains the technical documentation for a formal security audit, demonstrating a full lifecycle from asset identification to incident remediation.
 
 ---
 
 ### **📋 Project Files & Context**
 
-#### 📑 [Data_Leak_Incident_Analysis_Report.pdf](./Data_Leak_Incident_Analysis_Report.pdf)
-* **Description:** The final governance report summarizing the root causes of the sales team data leak.
-* **Technical Detail:** Documents the transition from reactive security to proactive controls, specifically implementing **NIST AC-6 (Least Privilege)** to limit the "blast radius" of human error.
-* **Skills Highlighted:** Security auditing, policy drafting, and regulatory alignment.
-
-#### 📊 [Threat_Risk_Matrix.csv](./Threat_Risk_Matrix.csv)
-* **Description:** A quantitative risk assessment spreadsheet used to prioritize system remediation.
-* **Technical Detail:** Features a calculation of **Risk Scores** ($Likelihood \times Impact$) for critical assets like Active Directory and Payroll databases.
-* **Skills Highlighted:** Quantitative risk analysis and threat modeling.
-
-#### 📋 [Asset_Inventory.csv](./Asset_Inventory.csv)
-* **Description:** A comprehensive list of all organizational resources evaluated during the audit scope.
+#### 📋 [1. Asset_Inventory.csv](./Asset_Inventory.csv)
+* **Description:** The foundation of the audit, listing all organizational resources evaluated.
 * **Technical Detail:** Categorizes assets by ID, type, and criticality to ensure total visibility across the network infrastructure.
-* **Skills Highlighted:** Asset management and audit scoping.
+* **Skills Highlighted:** Asset management, audit scoping, and inventory control.
+
+#### 📊 [2. Threat_Risk_Matrix.csv](./Threat_Risk_Matrix.csv)
+* **Description:** A quantitative risk assessment used to prioritize system remediation efforts.
+* **Technical Detail:** Features a calculation of **Risk Scores** ($Likelihood \times Impact$) for critical assets like Active Directory and Payroll databases.
+* **Skills Highlighted:** Quantitative risk analysis, threat modeling, and vulnerability prioritization.
+
+#### 📑 [3. Data_Leak_Incident_Analysis_Report.pdf](./Data_Leak_Incident_Analysis_Report.pdf)
+* **Description:** The final governance report summarizing the root causes and solutions for the sales team data leak.
+* **Technical Detail:** Documents the transition from reactive security to proactive controls, specifically implementing **NIST AC-6 (Least Privilege)** and **Separation of Duties (SoD)**.
+* **Skills Highlighted:** Incident analysis, policy drafting, and regulatory compliance.
 
 ---
 *Back to [Main Repository](../README.md)*
-
-
-
-
-
-
-
 
