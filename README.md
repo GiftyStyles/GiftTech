@@ -161,7 +161,6 @@ This folder contains the technical documentation for a formal security audit, de
 * **Skills Highlighted:** Incident analysis, policy drafting, and regulatory compliance.
 
 ---
----
 *⬅️ [Back to GiftTech Main Page](/GiftyStyles/GiftTech)*
 
 
