@@ -138,6 +138,15 @@ Click below to view the official PDF certifications.
 ---
 
 
+## 🛡️ NIST Cybersecurity Risk & Governance Audit
+**Project Overview:** A comprehensive analysis of an internal data leak incident, mapped to the **NIST Cybersecurity Framework (CSF)**. This project demonstrates proficiency in quantitative risk scoring and administrative control implementation.
+
+* **📑 [Full Audit Report](./NIST-Risk-Audit/Data_Leak_Incident_Analysis_Report.pdf)**: Analysis of root causes and implementation of **AC-6 (Least Privilege)**.
+* **📊 [Threat Risk Matrix](./NIST-Risk-Audit/Threat_Risk_Matrix.csv)**: Calculated risk scores for critical organizational assets.
+* **📁 [Explore Project Folder](./NIST-Risk-Audit/)**: View all technical documentation.
+
+
+
 
 
 
