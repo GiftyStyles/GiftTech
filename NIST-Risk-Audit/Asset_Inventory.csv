@@ -1,0 +1,9 @@
+Asset ID,Asset Name,Owner (Department),Sensitivity,Criticality(BIA),Network Zone,Primary Security Control
+HQ-SRV-001,Active Directory Server,IT Administration,Confidential,Critical,Management VLAN,Multi-Factor-Authentication (MFA)
+HQ-DB-002,Payroll Database,Finance/HR,Confidential,High,Secure Database Zone,AES-256 Encryption at Rest
+HQ-NET-003,Edge Firewall,IT Security,Confidential,Critical,Perimeter/Edge,Intrustion Prevention System (IPS)
+HQ-SRV-004,Public Web Server,Communications,Public,Medium,DMZ (Isolated),Web Application Firewall (WAF)
+HQ-WKS-005,Admin Workstation,IT Support (NYSC),Internal,Medium,Internal Office VLAN,Endpoint Detection & Response (EDR)
+HQ-IOT-006,CCTV Camera System,Facilities,Internal-Only,Low,Isolated IoT VLAN,MAC Address Filtering
+HQ-STR-007,Offsite Backup Drive,IT Administration,Confidential,High,Air-gapped (Offline),Physical Security / Biometrics
+HQ-NET-008,Core Switch,IT Infrastructure,Confidential,Critical,Core Infrastructure,Port Security / 802.1X

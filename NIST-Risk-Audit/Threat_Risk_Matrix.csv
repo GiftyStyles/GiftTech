@@ -1,0 +1,5 @@
+Asset ID,Primary Threat ,Likelihood (1-5),Impact (1-5),Risk Score 
+HQ-SRV-001,Brute Force,4,5,20
+HQ-DB-002,SQL Injection ,3,5,15
+HQ-NET-003,DDoS Attack ,2,4,8
+HQ-SRV-004,Phishing,5,3,15
