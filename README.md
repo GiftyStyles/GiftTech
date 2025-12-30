@@ -138,29 +138,34 @@ Click below to view the official PDF certifications.
 ---
 
 
-# 📂 NIST-Aligned Risk & Governance Audit
-This folder contains the technical documentation for a formal security audit, demonstrating a full lifecycle from asset identification to incident remediation.
+# 🛡️ Course: Assets, Threats, and Vulnerabilities 
+This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vulnerabilities" course. It documents the full security lifecycle: identifying assets, assessing risks, remediating incidents, and applying cryptographic controls.
 
 ---
 
-### **📋 Project Files & Context**
+### **📜 Course Credential**
+* **[View Course Certificate](./Course_Certificate.pdf)** — Official validation of skills in NIST standards, risk management, and cryptography.
+
+---
+
+### **🧪 Technical Lab & Audit Activities**
 
 #### 📋 [1. Asset_Inventory.csv](./Asset_Inventory.csv)
-* **Description:** The foundation of the audit, listing all organizational resources evaluated.
-* **Technical Detail:** Categorizes assets by ID, type, and criticality to ensure total visibility across the network infrastructure.
-* **Skills Highlighted:** Asset management, audit scoping, and inventory control.
+* **Objective:** Establish the audit scope by identifying and categorizing organizational hardware and software.
+* **Skills:** Asset Management and Classification.
 
 #### 📊 [2. Threat_Risk_Matrix.csv](./Threat_Risk_Matrix.csv)
-* **Description:** A quantitative risk assessment used to prioritize system remediation efforts.
-* **Technical Detail:** Features a calculation of **Risk Scores** ($Likelihood \times Impact$) for critical assets like Active Directory and Payroll databases.
-* **Skills Highlighted:** Quantitative risk analysis, threat modeling, and vulnerability prioritization.
+* **Objective:** Perform quantitative risk analysis using $Likelihood \times Impact$ scoring.
+* **Skills:** Threat Modeling and Risk Prioritization.
 
 #### 📑 [3. Data_Leak_Incident_Analysis_Report.pdf](./Data_Leak_Incident_Analysis_Report.pdf)
-* **Description:** The final governance report summarizing the root causes and solutions for the sales team data leak.
-* **Technical Detail:** Documents the transition from reactive security to proactive controls, specifically implementing **NIST AC-6 (Least Privilege)** and **Separation of Duties (SoD)**.
-* **Skills Highlighted:** Incident analysis, policy drafting, and regulatory compliance.
+* **Objective:** Analyze a real-world breach and map remediation to **NIST SP 800-53**.
+* **Skills:** GRC Auditing and Policy Implementation (NIST AC-6).
+
+#### 🔐 [4. Message_Decryption_Lab.pdf](./Message_Decryption_Lab.pdf)
+* **Objective:** Apply cryptanalysis techniques to decrypt an encoded message.
+* **Lab Task:** Identified the encryption algorithm, analyzed the cipher pattern, and successfully recovered the plaintext.
+* **Skills:** Cryptography, Logic, and Technical Troubleshooting.
 
 ---
 *⬅️ [Back to GiftTech Main Page](../../)*
-
-
