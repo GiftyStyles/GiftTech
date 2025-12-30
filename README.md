@@ -138,14 +138,30 @@ Click below to view the official PDF certifications.
 ---
 
 
-## 🛡️ NIST Cybersecurity Risk & Governance Audit
-**Project Overview:** A comprehensive analysis of an internal data leak incident, mapped to the **NIST Cybersecurity Framework (CSF)**. This project demonstrates proficiency in quantitative risk scoring and administrative control implementation.
+# 📂 NIST-Aligned Risk & Governance Audit
+This folder contains the technical documentation for a formal security audit conducted on a data leak incident, mapped directly to **NIST SP 800-53** and the **NIST Cybersecurity Framework (CSF)**.
 
-* **📑 [Full Audit Report](./NIST-Risk-Audit/Data_Leak_Incident_Analysis_Report.pdf)**: Analysis of root causes and implementation of **AC-6 (Least Privilege)**.
-* **📊 [Threat Risk Matrix](./NIST-Risk-Audit/Threat_Risk_Matrix.csv)**: Calculated risk scores for critical organizational assets.
-* **📁 [Explore Project Folder](./NIST-Risk-Audit/)**: View all technical documentation.
+---
 
+### **📋 Project Files & Context**
 
+#### 📑 [Data_Leak_Incident_Analysis_Report.pdf](./Data_Leak_Incident_Analysis_Report.pdf)
+* **Description:** The final governance report summarizing the root causes of the sales team data leak.
+* **Technical Detail:** Documents the transition from reactive security to proactive controls, specifically implementing **NIST AC-6 (Least Privilege)** to limit the "blast radius" of human error.
+* **Skills Highlighted:** Security auditing, policy drafting, and regulatory alignment.
+
+#### 📊 [Threat_Risk_Matrix.csv](./Threat_Risk_Matrix.csv)
+* **Description:** A quantitative risk assessment spreadsheet used to prioritize system remediation.
+* **Technical Detail:** Features a calculation of **Risk Scores** ($Likelihood \times Impact$) for critical assets like Active Directory and Payroll databases.
+* **Skills Highlighted:** Quantitative risk analysis and threat modeling.
+
+#### 📋 [Asset_Inventory.csv](./Asset_Inventory.csv)
+* **Description:** A comprehensive list of all organizational resources evaluated during the audit scope.
+* **Technical Detail:** Categorizes assets by ID, type, and criticality to ensure total visibility across the network infrastructure.
+* **Skills Highlighted:** Asset management and audit scoping.
+
+---
+*Back to [Main Repository](../README.md)*
 
 
 
