@@ -156,96 +156,54 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
 
 ---
 
-## 🧪 **Technical Lab & Audit Activities**
+## 🧪 **Technical Lab Practicals (Visual Evidence)**
 
-### 📋 **Asset Management & Classification**
-**Governance, Risk & Compliance**
+### 🔐 **Lab Practical: Data Decryption and Encryption**
+**Cryptography & Data Protection**
 
-> **Objective:** Establish the audit scope by identifying and categorizing organizational hardware and software assets.
+> **Objective:** Mitigate the risk of data exposure by implementing appropriate cryptographic handling for "Data at Rest" and "Data in Transit".
 
-* **Action:** Created a centralized inventory to track asset value and critical business functions.
-* **Evidence:** [📄 Asset_Inventory.csv](./NIST-Risk-Audit/Asset_Inventory.csv)
-
-<br>
-
-### 📊 **Quantitative Risk Analysis**
-**Threat Modeling & Risk Prioritization**
-
-> **Objective:** Perform quantitative risk analysis using Likelihood × Impact scoring to prioritize mitigation efforts.
-
-* **Action:** Developed a risk matrix to identify high-priority threats and align them with technical security controls.
-* **Evidence:** [📄 Threat_Risk_Matrix.csv](./NIST-Risk-Audit/Threat_Risk_Matrix.csv)
+* **Action:** Utilized industrial-grade encryption (AES) and decryption tools to secure sensitive organizational records and validated the success of the ciphertext recovery.
+* **Lab Evidence:**
+![04_Decrypt_and_Encrypt_Data.png](./NIST-Risk-Audit/04_Decrypt_and_Encrypt_Data.png)
 
 <br>
 
-### 📑 **Incident Analysis: Data Leak**
-**GRC Auditing & Policy Implementation**
+### 🛡️ **Lab Practical: Cryptographic Hashing**
+**Asset Verification & Integrity**
 
-> **Objective:** Analyze a real-world breach and map remediation strategies to the **NIST SP 800-53** framework.
+> **Objective:** Ensure the integrity of organizational assets by verifying that files have not been modified or tampered with by unauthorized actors.
 
-* **Action:** Evaluated a data leak incident and implemented NIST AC-6 policies to strengthen organizational security posture.
-* **Evidence:** [📄 Data_Leak_Incident_Analysis_Report.pdf](./NIST-Risk-Audit/Data_Leak_Incident_Analysis_Report.pdf)
+* **Action:** Generated and compared SHA-256 cryptographic hash values for critical data sets to detect unauthorized alterations.
+* **Lab Evidence:**
+![05_Create_Hash_Value.png](./NIST-Risk-Audit/05_Create_Hash_Value.png)
 
 ---
 
-## 🔐 **Security Project Portfolio: NIST-Risk-Audit**
+## 🔐 **Security Project Portfolio (PDF Reports)**
 
-### 🛡️ **Security Controls Assessment: Data Encryption**
-**Cryptography & Data Protection**
+### 📋 **Asset Management & Classification**
+> **Objective:** Define the audit scope by identifying, categorizing, and valuing organizational hardware and software assets.
+* **Evidence:** [📄 Asset_Inventory.csv](./NIST-Risk-Audit/Asset_Inventory.csv)
 
-> **Objective:** Determine appropriate data handling practices to prevent data leaks and protect "Data at Rest."
-
-* **Action:** Successfully implemented industrial-grade encryption and decryption techniques for sensitive organizational assets.
-* **Evidence:** [🖼️ 04_Decrypt_and_Encrypt_Data.png](./NIST-Risk-Audit/04_Decrypt_and_Encrypt_Data.png)
-
-<br>
-
-### 🛡️ **Data Integrity: Cryptographic Hashing**
-**Asset Verification & Integrity**
-
-> **Objective:** Leveraged cryptographic hashing to verify organizational assets against unauthorized changes.
-
-* **Action:** Generated and verified hash values to ensure end-to-end data integrity for critical files.
-* **Evidence:** [🖼️ 05_Create_Hash_Value.png](./NIST-Risk-Audit/05_Create_Hash_Value.png)
-
-<br>
+### 📊 **Quantitative Risk Analysis**
+> **Objective:** Evaluate potential threats against identified vulnerabilities to calculate financial and operational impact.
+* **Evidence:** [📄 Threat_Risk_Matrix.csv](./NIST-Risk-Audit/Threat_Risk_Matrix.csv)
 
 ### 🔑 **Identity & Access Management: AAA Protocols**
-**Access Control & Mitigation**
-
-> **Objective:** Improve Authentication, Authorization, and Accounting (AAA) protocols to restrict unauthorized access.
-
-* **Action:** Developed mitigation strategies and access control worksheets to secure organizational resources.
+> **Objective:** Reduce the attack surface by strengthening **Authentication, Authorization, and Accounting (AAA)** controls.
 * **Evidence:** [📄 6_Access_Control_Mitigation_Worksheet.pdf](./NIST-Risk-Audit/6_Access_Control_Mitigation_Worksheet.pdf)
 
-<br>
-
-### 🔍 **System Vulnerability Assessment: Small Business Audit**
-**NIST Risk Management Framework**
-
-> **Objective:** Conducted a comprehensive internal audit to identify security gaps and prioritize remediation using NIST standards.
-
-* **Action:** Analyzed a vulnerable system for a small business to identify and prioritize security weaknesses.
+### 🔍 **NIST Vulnerability Assessment Audit**
+> **Objective:** Conduct a systematic internal audit to identify security gaps and prioritize remediation efforts.
 * **Evidence:** [📄 7_Vulnerability_Assessment_Report.pdf](./NIST-Risk-Audit/7_Vulnerability_Assessment_Report.pdf)
 
-<br>
-
 ### 💾 **Forensic Analysis: USB Attack Vectors**
-**Physical Security & Forensics**
-
-> **Objective:** Investigate physical attack surfaces associated with removable media and social engineering.
-
-* **Action:** Isolated and analyzed attack paths involving USB drives as a vector for unauthorized system access.
+> **Objective:** Evaluate the security risks posed by unauthorized removable media and social engineering.
 * **Evidence:** [📄 8_USB_Attack_Vector_Analysis.pdf](./NIST-Risk-Audit/8_USB_Attack_Vector_Analysis.pdf)
 
-<br>
-
 ### 🎯 **Advanced Threat Modeling: PASTA Framework**
-**Strategic Defense & Attack Simulation**
-
-> **Objective:** Apply the 7-stage PASTA framework to align technical security defenses with business requirements.
-
-* **Action:** Modeled SQL Injection exploitation paths and recommended controls like PKI and Multi-Factor Authentication.
+> **Objective:** Apply the 7-stage PASTA framework to simulate sophisticated attack paths and align technical defenses.
 * **Evidence:** [📄 9_PASTA_Threat_Model_SneakerAPP.pdf](./NIST-Risk-Audit/9_PASTA_Threat_Model_SneakerAPP.pdf)
 
 ---
