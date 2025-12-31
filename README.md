@@ -168,4 +168,35 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
 * **Skills:** Cryptography, Logic, and Technical Troubleshooting.
 
 ---
+
+# NIST Risk Audit & Security Portfolio
+
+This directory contains technical documentation and lab results for security audits and risk management activities conducted within the GiftTech repository.
+
+---
+
+### **Activity 04: Data Decryption and Encryption**
+* **Action:** Determined appropriate data handling practices to prevent data leaks and implemented encryption/decryption for sensitive assets.
+* **Evidence:** [View Decrypt and Encrypt Lab Result](04_Decrypt_and_Encrypt_Data.png)
+
+### **Activity 05: Cryptographic Hash Values**
+* **Action:** Leveraged cryptographic hashing to ensure data integrity and verify organizational assets against unauthorized changes.
+* **Evidence:** [View Hash Value Lab Result](05_Create_Hash_Value.png)
+
+### **Activity 06: AAA Security & Access Control**
+* **Action:** Developed mitigation strategies to improve Authentication, Authorization, and Accounting (AAA) and restrict asset access.
+* **Evidence:** [View Access Control Mitigation Worksheet](6_Access_Control_Mitigation_Worksheet.pdf)
+
+### **Activity 07: Vulnerability Assessment (Small Business)**
+* **Action:** Conducted a comprehensive analysis of a vulnerable system for a small business to identify and prioritize security weaknesses.
+* **Evidence:** [View Vulnerability Assessment Report](7_Vulnerability_Assessment_Report.pdf)
+
+### **Activity 08: USB Attack Vector Analysis**
+* **Action:** Investigated physical attack vectors associated with removable media, focusing on malware delivery and unauthorized data access.
+* **Evidence:** [View USB Attack Vector Analysis](8_USB_Attack_Vector_Analysis.pdf)
+
+### **Activity 09: PASTA Threat Modeling Framework**
+* **Action:** Applied the 7-stage PASTA framework to simulate attack paths (SQL Injection) and align technical controls with business objectives.
+* **Evidence:** [View PASTA Threat Model Report](9_PASTA_Threat_Model_SneakerAPP.pdf)
+
 *⬅️ [Back to GiftTech Main Page](../../)*
