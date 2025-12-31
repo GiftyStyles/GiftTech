@@ -180,7 +180,7 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
 > **Objective:** Investigate a security breach to determine the root cause of a data leak and implement corrective technical controls based on **NIST SP 800-53**.
 
 * **Action:** Analyzed the leak's impact on data confidentiality, drafted a formal incident report, and recommended **NIST AC-6 (Least Privilege)** for future prevention.
-* **Evidence:** [📄 View Data_Leak_Incident_Analysis_Report.pdf](./NIST-Risk-Audit/Data_Leak_Incident_Analysis_Report.pdf)
+* **Evidence:** [📄 View Data_Leak_Incident_Analysis_Report.pdf](./NIST-Risk-Audit/Data_Leak-Incident_Analysis_Report.pdf)
 
 <br>
 
