@@ -137,66 +137,85 @@ Click below to view the official PDF certifications.
 
 ---
 
-
 # 🛡️ Course: Assets, Threats, and Vulnerabilities 
-This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vulnerabilities" course. It documents the full security lifecycle: identifying assets, assessing risks, remediating incidents, and applying cryptographic controls.
+
+This repository serves as a comprehensive technical portfolio for the "Assets, Threats, and Vulnerabilities" course. It documents a full security lifecycle—from identifying assets and assessing risks to implementing cryptographic controls and advanced threat modeling.
 
 ---
 
-### **📜 Course Credential**
-* **[View Course Certificate](./Course_Certificate.pdf)** — Official validation of skills in NIST standards, risk management, and cryptography.
+### 📜 Professional Certification
+
+<div align="center">
+  <img src="https://img.icons8.com/color/144/google-logo.png" width="80">
+  <br>
+  
+  **Official validation of skills in NIST standards, risk management, and cryptography.**
+  <br>
+  [📄 View Course Certificate](./Course_Certificate.pdf)
+</div>
 
 ---
 
-### **🧪 Technical Lab & Audit Activities**
+## 📋 Featured Technical Activities
 
-#### 📋 [1. Asset_Inventory.csv](./Asset_Inventory.csv)
-* **Objective:** Establish the audit scope by identifying and categorizing organizational hardware and software.
-* **Skills:** Asset Management and Classification.
+### 🔐 **Data Decryption and Encryption**
+**Cryptography & Data Protection**
 
-#### 📊 [2. Threat_Risk_Matrix.csv](./Threat_Risk_Matrix.csv)
-* **Objective:** Perform quantitative risk analysis using $Likelihood \times Impact$ scoring.
-* **Skills:** Threat Modeling and Risk Prioritization.
+> **Objective:** Determine appropriate data handling practices to prevent data leaks and protect "Data at Rest."
 
-#### 📑 [3. Data_Leak_Incident_Analysis_Report.pdf](./Data_Leak_Incident_Analysis_Report.pdf)
-* **Objective:** Analyze a real-world breach and map remediation to **NIST SP 800-53**.
-* **Skills:** GRC Auditing and Policy Implementation (NIST AC-6).
+* **Action:** Implemented industrial-grade encryption and decryption techniques for sensitive organizational assets.
+* **Evidence:** [🖼️ 04_Decrypt_and_Encrypt_Data.png](04_Decrypt_and_Encrypt_Data.png)
 
-#### 🔐 [4. Message_Decryption_Lab.pdf](./Message_Decryption_Lab.pdf)
-* **Objective:** Apply cryptanalysis techniques to decrypt an encoded message.
-* **Lab Task:** Identified the encryption algorithm, analyzed the cipher pattern, and successfully recovered the plaintext.
-* **Skills:** Cryptography, Logic, and Technical Troubleshooting.
+<br>
+
+### 🛡️ **Data Integrity: Cryptographic Hashing**
+**Asset Verification & Integrity**
+
+> **Objective:** Leverage cryptographic hashing to verify organizational assets against unauthorized changes.
+
+* **Action:** Generated and verified hash values to ensure end-to-end data integrity for critical files.
+* **Evidence:** [🖼️ 05_Create_Hash_Value.png](05_Create_Hash_Value.png)
+
+<br>
+
+### 🔑 **Identity & Access Management: AAA Protocols**
+**Access Control & Mitigation**
+
+> **Objective:** Improve Authentication, Authorization, and Accounting (AAA) protocols to restrict unauthorized access.
+
+* **Action:** Developed mitigation strategies and access control worksheets to secure organizational resources.
+* **Evidence:** [📄 6_Access_Control_Mitigation_Worksheet.pdf](6_Access_Control_Mitigation_Worksheet.pdf)
+
+<br>
+
+### 🔍 **System Vulnerability Assessment: Small Business Audit**
+**NIST Risk Management Framework**
+
+> **Objective:** Conduct a comprehensive internal audit to identify security gaps and prioritize remediation using NIST standards.
+
+* **Action:** Analyzed a vulnerable system for a small business to identify and prioritize security weaknesses.
+* **Evidence:** [📄 7_Vulnerability_Assessment_Report.pdf](7_Vulnerability_Assessment_Report.pdf)
+
+<br>
+
+### 💾 **Forensic Analysis: USB Attack Vectors**
+**Physical Security & Forensics**
+
+> **Objective:** Investigate physical attack surfaces associated with removable media and social engineering.
+
+* **Action:** Isolated and analyzed attack paths involving USB drives as a vector for unauthorized system access.
+* **Evidence:** [📄 8_USB_Attack_Vector_Analysis.pdf](8_USB_Attack_Vector_Analysis.pdf)
+
+<br>
+
+### 🎯 **Advanced Threat Modeling: PASTA Framework**
+**Strategic Defense & Attack Simulation**
+
+> **Objective:** Apply the 7-stage PASTA framework to align technical security defenses with business requirements.
+
+* **[span_2](start_span)[span_3](start_span)Action:** Modeled SQL Injection exploitation paths and recommended controls like PKI and Multi-Factor Authentication[span_2](end_span)[span_3](end_span).
+* **[span_4](start_span)Evidence:** [📄 9_PASTA_Threat_Model_SneakerAPP.pdf](9_PASTA_Threat_Model_SneakerAPP.pdf)[span_4](end_span)
 
 ---
-
-# NIST Risk Audit & Security Portfolio
-
-This directory contains technical documentation and lab results for security audits and risk management activities conducted within the GiftTech repository.
-
----
-
-### **Activity 04: Data Decryption and Encryption**
-* **Action:** Determined appropriate data handling practices to prevent data leaks and implemented encryption/decryption for sensitive assets.
-* **Evidence:** [View Decrypt and Encrypt Lab Result](04_Decrypt_and_Encrypt_Data.png)
-
-### **Activity 05: Cryptographic Hash Values**
-* **Action:** Leveraged cryptographic hashing to ensure data integrity and verify organizational assets against unauthorized changes.
-* **Evidence:** [View Hash Value Lab Result](05_Create_Hash_Value.png)
-
-### **Activity 06: AAA Security & Access Control**
-* **Action:** Developed mitigation strategies to improve Authentication, Authorization, and Accounting (AAA) and restrict asset access.
-* **Evidence:** [View Access Control Mitigation Worksheet](6_Access_Control_Mitigation_Worksheet.pdf)
-
-### **Activity 07: Vulnerability Assessment (Small Business)**
-* **Action:** Conducted a comprehensive analysis of a vulnerable system for a small business to identify and prioritize security weaknesses.
-* **Evidence:** [View Vulnerability Assessment Report](7_Vulnerability_Assessment_Report.pdf)
-
-### **Activity 08: USB Attack Vector Analysis**
-* **Action:** Investigated physical attack vectors associated with removable media, focusing on malware delivery and unauthorized data access.
-* **Evidence:** [View USB Attack Vector Analysis](8_USB_Attack_Vector_Analysis.pdf)
-
-### **Activity 09: PASTA Threat Modeling Framework**
-* **Action:** Applied the 7-stage PASTA framework to simulate attack paths (SQL Injection) and align technical controls with business objectives.
-* **Evidence:** [View PASTA Threat Model Report](9_PASTA_Threat_Model_SneakerAPP.pdf)
 
 *⬅️ [Back to GiftTech Main Page](../../)*
