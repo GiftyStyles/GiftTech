@@ -139,11 +139,11 @@ Click below to view the official PDF certifications.
 
 # 🛡️ Course: Assets, Threats, and Vulnerabilities 
 
-This repository serves as a comprehensive technical portfolio for the "Assets, Threats, and Vulnerabilities" course. It documents a full security lifecycle—from identifying assets and assessing risks to implementing cryptographic controls and advanced threat modeling.
+This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vulnerabilities" course. It documents the full security lifecycle: identifying assets, assessing risks, remediating incidents, and applying cryptographic controls.
 
 ---
 
-### 📜 Professional Certification
+### 📜 **Professional Certification**
 
 <div align="center">
   <img src="https://img.icons8.com/color/144/google-logo.png" width="80">
@@ -156,25 +156,47 @@ This repository serves as a comprehensive technical portfolio for the "Assets, T
 
 ---
 
-## 📋 Featured Technical Activities
+## 🧪 **Technical Lab & Audit Activities**
 
-### 🔐 **Data Decryption and Encryption**
+### 📋 **Asset Management & Classification**
+**Governance, Risk & Compliance**
+
+> **Objective:** Establish the audit scope by identifying and categorizing organizational hardware and software assets.
+
+* **Action:** Created a centralized inventory to track asset value and critical business functions.
+* **Evidence:** [📄 Asset_Inventory.csv](./Asset_Inventory.csv)
+
+<br>
+
+### 📊 **Quantitative Risk Analysis**
+**Threat Modeling & Risk Prioritization**
+
+> **Objective:** Perform quantitative risk analysis using Likelihood × Impact scoring to prioritize mitigation efforts.
+
+* **Action:** Developed a risk matrix to identify high-priority threats and align them with technical security controls.
+* **Evidence:** [📄 Threat_Risk_Matrix.csv](./Threat_Risk_Matrix.csv)
+
+<br>
+
+### 📑 **Incident Analysis: Data Leak**
+**GRC Auditing & Policy Implementation**
+
+> **Objective:** Analyze a real-world breach and map remediation strategies to the **NIST SP 800-53** framework.
+
+* **Action:** Evaluated a data leak incident and implemented NIST AC-6 policies to strengthen organizational security posture.
+* **Evidence:** [📄 Data_Leak_Incident_Analysis_Report.pdf](./Data_Leak_Incident_Analysis_Report.pdf)
+
+---
+
+## 🔐 **Security Project Portfolio**
+
+### 🛡️ **Security Controls Assessment: Data Encryption**
 **Cryptography & Data Protection**
 
 > **Objective:** Determine appropriate data handling practices to prevent data leaks and protect "Data at Rest."
 
-* **Action:** Implemented industrial-grade encryption and decryption techniques for sensitive organizational assets.
-* **Evidence:** [🖼️ 04_Decrypt_and_Encrypt_Data.png](04_Decrypt_and_Encrypt_Data.png)
-
-<br>
-
-### 🛡️ **Data Integrity: Cryptographic Hashing**
-**Asset Verification & Integrity**
-
-> **Objective:** Leverage cryptographic hashing to verify organizational assets against unauthorized changes.
-
-* **Action:** Generated and verified hash values to ensure end-to-end data integrity for critical files.
-* **Evidence:** [🖼️ 05_Create_Hash_Value.png](05_Create_Hash_Value.png)
+* **Action:** Successfully implemented industrial-grade encryption and decryption techniques for sensitive organizational assets.
+* **Evidence:** [🖼️ 04_Decrypt_and_Encrypt_Data.png](./04_Decrypt_and_Encrypt_Data.png)
 
 <br>
 
@@ -184,37 +206,27 @@ This repository serves as a comprehensive technical portfolio for the "Assets, T
 > **Objective:** Improve Authentication, Authorization, and Accounting (AAA) protocols to restrict unauthorized access.
 
 * **Action:** Developed mitigation strategies and access control worksheets to secure organizational resources.
-* **Evidence:** [📄 6_Access_Control_Mitigation_Worksheet.pdf](6_Access_Control_Mitigation_Worksheet.pdf)
+* **Evidence:** [📄 6_Access_Control_Mitigation_Worksheet.pdf](./6_Access_Control_Mitigation_Worksheet.pdf)
 
 <br>
 
 ### 🔍 **System Vulnerability Assessment: Small Business Audit**
 **NIST Risk Management Framework**
 
-> **Objective:** Conduct a comprehensive internal audit to identify security gaps and prioritize remediation using NIST standards.
+> **Objective:** Conducted a comprehensive internal audit to identify security gaps and prioritize remediation.
 
-* **Action:** Analyzed a vulnerable system for a small business to identify and prioritize security weaknesses.
-* **Evidence:** [📄 7_Vulnerability_Assessment_Report.pdf](7_Vulnerability_Assessment_Report.pdf)
-
-<br>
-
-### 💾 **Forensic Analysis: USB Attack Vectors**
-**Physical Security & Forensics**
-
-> **Objective:** Investigate physical attack surfaces associated with removable media and social engineering.
-
-* **Action:** Isolated and analyzed attack paths involving USB drives as a vector for unauthorized system access.
-* **Evidence:** [📄 8_USB_Attack_Vector_Analysis.pdf](8_USB_Attack_Vector_Analysis.pdf)
+* **Action:** Analyzed a vulnerable system using NIST standards to provide actionable security recommendations.
+* **Evidence:** [📄 7_Vulnerability_Assessment_Report.pdf](./7_Vulnerability_Assessment_Report.pdf)
 
 <br>
 
 ### 🎯 **Advanced Threat Modeling: PASTA Framework**
 **Strategic Defense & Attack Simulation**
 
-> **Objective:** Apply the 7-stage PASTA framework to align technical security defenses with business requirements.
+> **[span_0](start_span)[span_1](start_span)Objective:** Apply the 7-stage PASTA framework to align technical security defenses with business requirements[span_0](end_span)[span_1](end_span).
 
 * **[span_2](start_span)[span_3](start_span)Action:** Modeled SQL Injection exploitation paths and recommended controls like PKI and Multi-Factor Authentication[span_2](end_span)[span_3](end_span).
-* **[span_4](start_span)Evidence:** [📄 9_PASTA_Threat_Model_SneakerAPP.pdf](9_PASTA_Threat_Model_SneakerAPP.pdf)[span_4](end_span)
+* **Evidence:** [📄 9_PASTA_Threat_Model_SneakerAPP.pdf](./9_PASTA_Threat_Model_SneakerAPP.pdf)
 
 ---
 
