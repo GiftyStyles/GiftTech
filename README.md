@@ -151,7 +151,7 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
   
   **Official validation of skills in NIST standards, risk management, and cryptography.**
   <br>
-  [📄 View Course Certificate](./Course_Certificate.pdf)
+  [📄 View Course Certificate](./NIST-Risk-Audit/Course_Certificate.pdf)
 </div>
 
 ---
@@ -164,7 +164,7 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
 > **Objective:** Establish the audit scope by identifying and categorizing organizational hardware and software assets.
 
 * **Action:** Created a centralized inventory to track asset value and critical business functions.
-* **Evidence:** [📄 Asset_Inventory.csv](./Asset_Inventory.csv)
+* **Evidence:** [📄 Asset_Inventory.csv](./NIST-Risk-Audit/Asset_Inventory.csv)
 
 <br>
 
@@ -174,7 +174,7 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
 > **Objective:** Perform quantitative risk analysis using Likelihood × Impact scoring to prioritize mitigation efforts.
 
 * **Action:** Developed a risk matrix to identify high-priority threats and align them with technical security controls.
-* **Evidence:** [📄 Threat_Risk_Matrix.csv](./Threat_Risk_Matrix.csv)
+* **Evidence:** [📄 Threat_Risk_Matrix.csv](./NIST-Risk-Audit/Threat_Risk_Matrix.csv)
 
 <br>
 
@@ -184,7 +184,7 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
 > **Objective:** Analyze a real-world breach and map remediation strategies to the **NIST SP 800-53** framework.
 
 * **Action:** Evaluated a data leak incident and implemented NIST AC-6 policies to strengthen organizational security posture.
-* **Evidence:** [📄 Data_Leak_Incident_Analysis_Report.pdf](./Data_Leak_Incident_Analysis_Report.pdf)
+* **Evidence:** [📄 Data_Leak_Incident_Analysis_Report.pdf](./NIST-Risk-Audit/Data_Leak_Incident_Analysis_Report.pdf)
 
 ---
 
@@ -196,7 +196,7 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
 > **Objective:** Determine appropriate data handling practices to prevent data leaks and protect "Data at Rest."
 
 * **Action:** Successfully implemented industrial-grade encryption and decryption techniques for sensitive organizational assets.
-* **Evidence:** [🖼️ 04_Decrypt_and_Encrypt_Data.png](./04_Decrypt_and_Encrypt_Data.png)
+* **Evidence:** [🖼️ 04_Decrypt_and_Encrypt_Data.png](./NIST-Risk-Audit/04_Decrypt_and_Encrypt_Data.png)
 
 <br>
 
@@ -206,7 +206,7 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
 > **Objective:** Leveraged cryptographic hashing to verify organizational assets against unauthorized changes.
 
 * **Action:** Generated and verified hash values to ensure end-to-end data integrity for critical files.
-* **Evidence:** [🖼️ 05_Create_Hash_Value.png](./05_Create_Hash_Value.png)
+* **Evidence:** [🖼️ 05_Create_Hash_Value.png](./NIST-Risk-Audit/05_Create_Hash_Value.png)
 
 <br>
 
@@ -216,7 +216,7 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
 > **Objective:** Improve Authentication, Authorization, and Accounting (AAA) protocols to restrict unauthorized access.
 
 * **Action:** Developed mitigation strategies and access control worksheets to secure organizational resources.
-* **Evidence:** [📄 6_Access_Control_Mitigation_Worksheet.pdf](./6_Access_Control_Mitigation_Worksheet.pdf)
+* **Evidence:** [📄 6_Access_Control_Mitigation_Worksheet.pdf](./NIST-Risk-Audit/6_Access_Control_Mitigation_Worksheet.pdf)
 
 <br>
 
@@ -226,7 +226,7 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
 > **Objective:** Conducted a comprehensive internal audit to identify security gaps and prioritize remediation using NIST standards.
 
 * **Action:** Analyzed a vulnerable system for a small business to identify and prioritize security weaknesses.
-* **Evidence:** [📄 7_Vulnerability_Assessment_Report.pdf](./7_Vulnerability_Assessment_Report.pdf)
+* **Evidence:** [📄 7_Vulnerability_Assessment_Report.pdf](./NIST-Risk-Audit/7_Vulnerability_Assessment_Report.pdf)
 
 <br>
 
@@ -236,7 +236,7 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
 > **Objective:** Investigate physical attack surfaces associated with removable media and social engineering.
 
 * **Action:** Isolated and analyzed attack paths involving USB drives as a vector for unauthorized system access.
-* **Evidence:** [📄 8_USB_Attack_Vector_Analysis.pdf](./8_USB_Attack_Vector_Analysis.pdf)
+* **Evidence:** [📄 8_USB_Attack_Vector_Analysis.pdf](./NIST-Risk-Audit/8_USB_Attack_Vector_Analysis.pdf)
 
 <br>
 
@@ -246,7 +246,7 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
 > **Objective:** Apply the 7-stage PASTA framework to align technical security defenses with business requirements.
 
 * **Action:** Modeled SQL Injection exploitation paths and recommended controls like PKI and Multi-Factor Authentication.
-* **Evidence:** [📄 9_PASTA_Threat_Model_SneakerAPP.pdf](./9_PASTA_Threat_Model_SneakerAPP.pdf)
+* **Evidence:** [📄 9_PASTA_Threat_Model_SneakerAPP.pdf](./NIST-Risk-Audit/9_PASTA_Threat_Model_SneakerAPP.pdf)
 
 ---
 
