@@ -136,7 +136,6 @@ Click below to view the official PDF certifications.
   ![Relational Joins](./Linux-Labs/06b_SQL_Relational_Joins.png)
 
 ---
-
 # 🛡️ Course: Assets, Threats, and Vulnerabilities 
 
 This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vulnerabilities" course. It documents the full security lifecycle: identifying assets, assessing risks, remediating incidents, and applying cryptographic controls.
@@ -158,53 +157,65 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
 
 ## 🧪 **Technical Lab Practicals (Visual Evidence)**
 
-### 🔐 **Lab Practical: Data Decryption and Encryption**
+### 🔐 **Security Controls Assessment: Data Encryption**
 **Cryptography & Data Protection**
 
-> **Objective:** Mitigate the risk of data exposure by implementing appropriate cryptographic handling for "Data at Rest" and "Data in Transit".
+> **Objective:** Mitigate the risk of unauthorized data exposure by determining and implementing appropriate cryptographic handling practices for sensitive "Data at Rest" and "Data in Transit".
 
-* **Action:** Utilized industrial-grade encryption (AES) and decryption tools to secure sensitive organizational records and validated the success of the ciphertext recovery.
+* **Action:** Evaluated the organizational security posture against industry standards, utilized industrial-grade encryption (AES) and decryption tools to secure records, and successfully validated ciphertext recovery.
 * **Lab Evidence:**
 ![04_Decrypt_and_Encrypt_Data.png](./NIST-Risk-Audit/04_Decrypt_and_Encrypt_Data.png)
 
 <br>
 
-### 🛡️ **Lab Practical: Cryptographic Hashing**
-**Asset Verification & Integrity**
+### 🛡️ **Data Integrity: Cryptographic Hashing**
+**Asset Verification & Non-Repudiation**
 
-> **Objective:** Ensure the integrity of organizational assets by verifying that files have not been modified or tampered with by unauthorized actors.
+> **Objective:** Ensure the absolute integrity of organizational assets by leveraging cryptographic functions to verify that files remain unaltered by unauthorized actors.
 
-* **Action:** Generated and compared SHA-256 cryptographic hash values for critical data sets to detect unauthorized alterations.
+* **Action:** Generated and compared SHA-256 cryptographic hash values for business-critical data sets to detect unauthorized tampering and ensure data authenticity.
 * **Lab Evidence:**
 ![05_Create_Hash_Value.png](./NIST-Risk-Audit/05_Create_Hash_Value.png)
 
 ---
 
-## 🔐 **Security Project Portfolio (PDF Reports)**
+## 🔐 **Security Project Portfolio (Detailed Reports)**
 
 ### 📋 **Asset Management & Classification**
-> **Objective:** Define the audit scope by identifying, categorizing, and valuing organizational hardware and software assets.
-* **Evidence:** [📄 Asset_Inventory.csv](./NIST-Risk-Audit/Asset_Inventory.csv)
+**Governance, Risk & Compliance**
+> **Objective:** Establish the formal audit scope by identifying, categorizing, and valuing organizational hardware and software assets to ensure appropriate protection levels.
+* **Action:** Compiled a centralized inventory, assigned data criticality levels, and mapped assets to business-critical functions to streamline risk management.
+* **Evidence:** [📄 View Asset_Inventory.csv](./NIST-Risk-Audit/Asset_Inventory.csv)
 
 ### 📊 **Quantitative Risk Analysis**
-> **Objective:** Evaluate potential threats against identified vulnerabilities to calculate financial and operational impact.
-* **Evidence:** [📄 Threat_Risk_Matrix.csv](./NIST-Risk-Audit/Threat_Risk_Matrix.csv)
+**Threat Modeling & Risk Prioritization**
+> **Objective:** Perform a quantitative risk analysis using Likelihood × Impact scoring to prioritize mitigation efforts and align security resources.
+* **Action:** Developed a comprehensive risk matrix to identify high-priority threats and established a baseline for implementing technical security controls.
+* **Evidence:** [📄 View Threat_Risk_Matrix.csv](./NIST-Risk-Audit/Threat_Risk_Matrix.csv)
 
 ### 🔑 **Identity & Access Management: AAA Protocols**
-> **Objective:** Reduce the attack surface by strengthening **Authentication, Authorization, and Accounting (AAA)** controls.
-* **Evidence:** [📄 6_Access_Control_Mitigation_Worksheet.pdf](./NIST-Risk-Audit/6_Access_Control_Mitigation_Worksheet.pdf)
+**Access Control & Mitigation Strategy**
+> **Objective:** Reduce the organizational attack surface by strengthening Authentication, Authorization, and Accounting (AAA) protocols for all network resources.
+* **Action:** Designed an access control mitigation worksheet to enforce Multi-Factor Authentication (MFA) and granular permission levels based on the principle of least privilege.
+* **Evidence:** [📄 View 6_Access_Control_Mitigation_Worksheet.pdf](./NIST-Risk-Audit/6_Access_Control_Mitigation_Worksheet.pdf)
 
 ### 🔍 **NIST Vulnerability Assessment Audit**
-> **Objective:** Conduct a systematic internal audit to identify security gaps and prioritize remediation efforts.
-* **Evidence:** [📄 7_Vulnerability_Assessment_Report.pdf](./NIST-Risk-Audit/7_Vulnerability_Assessment_Report.pdf)
+**Risk Management Framework (RMF)**
+> **Objective:** Conduct a systematic internal audit of a small business environment to identify security gaps and prioritize remediation using the NIST CSF.
+* **Action:** Performed a comprehensive vulnerability analysis, identified high-risk entry points, and provided actionable remediation steps aligned with NIST standards.
+* **Evidence:** [📄 View 7_Vulnerability_Assessment_Report.pdf](./NIST-Risk-Audit/7_Vulnerability_Assessment_Report.pdf)
 
 ### 💾 **Forensic Analysis: USB Attack Vectors**
-> **Objective:** Evaluate the security risks posed by unauthorized removable media and social engineering.
-* **Evidence:** [📄 8_USB_Attack_Vector_Analysis.pdf](./NIST-Risk-Audit/8_USB_Attack_Vector_Analysis.pdf)
+**Physical Security & Threat Forensics**
+> **Objective:** Investigate the security risks posed by unauthorized removable media and social engineering-driven malware delivery.
+* **Action:** Isolated and analyzed attack paths involving physical USB drives, focusing on malware propagation and unauthorized data exfiltration methods.
+* **Evidence:** [📄 View 8_USB_Attack_Vector_Analysis.pdf](./NIST-Risk-Audit/8_USB_Attack_Vector_Analysis.pdf)
 
 ### 🎯 **Advanced Threat Modeling: PASTA Framework**
-> **Objective:** Apply the 7-stage PASTA framework to simulate sophisticated attack paths and align technical defenses.
-* **Evidence:** [📄 9_PASTA_Threat_Model_SneakerAPP.pdf](./NIST-Risk-Audit/9_PASTA_Threat_Model_SneakerAPP.pdf)
+**Strategic Defense & Attack Simulation**
+> **Objective:** Apply the 7-stage PASTA framework to simulate sophisticated attack paths and align technical defenses with business objectives.
+* **Action:** Modeled SQL Injection exploitation paths against a mobile application to recommend high-impact controls like Parameterized Queries and PKI.
+* **Evidence:** [📄 View 9_PASTA_Threat_Model_SneakerAPP.pdf](./NIST-Risk-Audit/9_PASTA_Threat_Model_SneakerAPP.pdf)
 
 ---
 
