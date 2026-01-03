@@ -150,7 +150,7 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
   
   **Official validation of skills in NIST standards, risk management, and cryptography.**
   <br>
-  [📄 View Course Certificate](./NIST-Risk-Audit/Course_Certificate.pdf)
+  [📄 View Course Certificate](./NIST-Risk-Audit/Asset_Course_Certificate.pdf)
 </div>
 
 ---
