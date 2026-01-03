@@ -288,19 +288,20 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 
 <br>
 
+<br>
+
 ### 🖥️ **3. CLI Lab: Network Observation with tcpdump**
 **Command-Line Traffic Analysis & Forensic Inspection**
-> **Objective:** Identify active network interfaces and utilize the `tcpdump` utility to capture, filter, and inspect live packet payloads.
+> **Objective:** Identify active network interfaces and utilize the `tcpdump` utility to capture, filter, and inspect live packet payloads within a Linux environment.
 
-* **Action:** Verified `eth0` interface availability, executed live verbose captures, and utilized the `-X` flag to perform hexadecimal and ASCII deep-packet inspections of HTTP traffic.
+* **Action:** Mapped hardware interfaces via `ifconfig`, intercepted real-time HTTP traffic on `eth0`, and performed advanced forensic filtering using hexadecimal and ASCII output formats to verify protocol integrity.
 
 #### **Lab Evidence**
 ![tcpdump Capture](./Detection-and-Response/tcpdump_CLI_Capture.png)
 
-*Figure 4: Command-line interface packet capture showing source/destination IP addresses and hexadecimal data translation.*
+*Figure 4: Command-line interface packet capture showing deep packet inspection and payload analysis.*
 
 * **Evidence:** [📄 View tcpdump Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=3)
-
 
 
 ---
