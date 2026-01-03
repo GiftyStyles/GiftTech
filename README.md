@@ -291,8 +291,13 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 > **Objective:** Identify active network interfaces and utilize the `tcpdump` utility to capture, filter, and inspect live packet payloads.
 
 * **Action:** Verified `eth0` interface availability, executed live verbose captures, and utilized the `-X` flag to perform hexadecimal and ASCII deep-packet inspections of HTTP traffic.
-* **Evidence:** [📄 View tcpdump Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=3)
 
+#### **Lab Evidence**
+![tcpdump Capture](./Detection-and-Response/tcpdump_CLI_Capture.png)
+
+*Figure 4: Command-line interface packet capture showing source/destination IP addresses and hexadecimal data translation.*
+
+* **Evidence:** [📄 View tcpdump Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=3)
 
 
 
