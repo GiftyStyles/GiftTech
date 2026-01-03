@@ -306,6 +306,40 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 
 ---
 
+# 🛡️ **4. Phishing Incident Response**
+**Email Artifact Analysis & Forensic Escalation**
+
+**Objective:** Identify high-risk indicators in malicious email artifacts and perform a formal escalation of an infected workstation alert.
+
+**Action:** Analyzed email headers for sender mismatches, identified social engineering red flags ("Egnieer"), verified a malicious SHA256 file hash, and updated the incident ticket to "Escalated" status.
+
+## **Lab Evidence**
+
+<div align="center">
+<img src="./Detection-and-Response/Phishing_Email_Evidence.png" width="90%" alt="Phishing Email Evidence"/>
+<br />
+<i>Figure 1: Identification of suspicious sender domain, grammatical errors, and malicious attachment hash.</i>
+<br />
+<br />
+
+<img src="./Detection-and-Response/Phishing_Escalated_Ticket.png" width="90%" alt="Escalated Ticket"/>
+<br />
+<i>Figure 2: Alert ticket updated to Escalated status with professional analyst documentation.</i>
+<br />
+<br />
+
+**Evidence:** [📄 View Phishing Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=4)
+
+<br />
+
+<div align="center">
+<a href="./Detection-and-Response/Incident_Handlers_Journal.pdf">
+<img src="https://img.shields.io/badge/Download-Full%20Journal%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download Journal PDF"/>
+</a>
+</div>
+
+
+
 <div align="center">
   <a href="./Detection-and-Response/Incident_Handlers_Journal.pdf">
     <img src="https://img.shields.io/badge/Download-Full%20Journal%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download PDF">
@@ -316,21 +350,6 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 ---
 
 <br>
-<br>
-
-### 📧 **4. Incident Response: Phishing Playbook Execution**
-**Standardized Remediation & Threat Mitigation**
-> **Objective:** Utilize a professional security playbook to respond to a phishing attempt, ensuring consistent identification and containment of the threat.
-
-* **Action:** Analyzed email artifacts for indicators of malicious intent, followed the step-by-step playbook for incident verification, and documented the remediation steps taken to secure the user account.
-
-#### **Lab Evidence**
-![Phishing Response](./Detection-and-Response/Phishing_Playbook_Response.png)
-
-*Figure 5: Security playbook workflow utilized to remediate a phishing incident and protect organizational assets.*
-
-* **Evidence:** [📄 View Phishing Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=4)
-
 
 
 
