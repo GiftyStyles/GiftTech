@@ -316,6 +316,21 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 ---
 
 <br>
+<br>
+
+### 📧 **4. Incident Response: Phishing Playbook Execution**
+**Standardized Remediation & Threat Mitigation**
+> **Objective:** Utilize a professional security playbook to respond to a phishing attempt, ensuring consistent identification and containment of the threat.
+
+* **Action:** Analyzed email artifacts for indicators of malicious intent, followed the step-by-step playbook for incident verification, and documented the remediation steps taken to secure the user account.
+
+#### **Lab Evidence**
+![Phishing Response](./Detection-and-Response/Phishing_Playbook_Response.png)
+
+*Figure 5: Security playbook workflow utilized to remediate a phishing incident and protect organizational assets.*
+
+* **Evidence:** [📄 View Phishing Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=4)
+
 
 
 
