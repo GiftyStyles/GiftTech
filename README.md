@@ -284,6 +284,8 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 
 <br>
 
+---
+
 <br>
 
 ### 🖥️ **3. CLI Lab: Network Observation with tcpdump**
