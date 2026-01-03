@@ -283,7 +283,7 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 
 <br>
 
----
+
 
 <div align="center">
   <a href="./Detection-and-Response/Incident_Handlers_Journal.pdf">
@@ -293,7 +293,7 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 ---
 
 <br>
-
+---
 ### 🖥️ **3. CLI Lab: Network Observation with tcpdump**
 **Command-Line Traffic Analysis & Forensic Inspection**
 > **Objective:** Identify active network interfaces and utilize the `tcpdump` utility to capture, filter, and inspect live packet payloads.
