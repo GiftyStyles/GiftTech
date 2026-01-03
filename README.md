@@ -279,7 +279,8 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 * **Lab Evidence:**
 ![Deep_Packet_Inspection_TCP.png](./Detection-and-Response/Deep_Packet_Inspection_TCP.png)
 <br>
-*Figure 3: Detailed inspection of the TCP header identifying source/destination ports and conversation completeness.*
+
+**Figure 3: Detailed inspection of the TCP header identifying source/destination ports and conversation completeness.**
 
 <br>
 
