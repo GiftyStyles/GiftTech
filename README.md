@@ -240,4 +240,62 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
 
 ---
 
+# Course 4: Sound the Alarm: Detection and Response
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status Completed">
+  <img src="https://img.shields.io/badge/Credential-Google%20Cybersecurity-blue?style=for-the-badge" alt="Credential">
+</div>
+
+> **Note:** This repository hosts technical documentation and forensic evidence for incident detection and network traffic analysis.
+
+---
+
+## 🛡️ Topic 1: Incident Analysis (Healthcare Ransomware)
+
+<div style="background-color: #f9f9f9; padding: 15px; border-left: 5px solid #2196F3; border-radius: 5px;">
+
+### **Objective**
+Analyze a simulated ransomware attack on a healthcare clinic to determine the impact on patient care and business operations.
+
+### **Description**
+Developed an incident overview following the NIST Incident Response lifecycle. I evaluated the risks associated with encrypted patient records and determined the necessity of immediate containment to prevent further spread of the malware.
+
+**📄 Evidence:** [View Ransomware Analysis in Journal](./Incident_Handlers_Journal.pdf#page=1)
+</div>
+
+---
+
+## 🔍 Topic 2: Network Traffic Analysis (Wireshark)
+
+<div style="background-color: #f9f9f9; padding: 15px; border-left: 5px solid #4CAF50; border-radius: 5px;">
+
+### **Objective**
+Perform Deep Packet Inspection (DPI) to identify indicators of compromise (IoCs) and verify TCP protocol integrity.
+
+### **Tools Used**
+* **Wireshark**: For packet capture and deep-packet inspection.
+* **Linux Terminal**: For local network environment management.
+
+### **Description**
+Analyzed a `.pcap` file to identify specific communication patterns. I verified the use of TCP Port 80 for unencrypted web traffic and confirmed that the network session reached a status of **'Complete, WITH_DATA,'** proving a successful three-way handshake and data exchange occurred.
+
+### **Technical Evidence**
+<p align="center">
+  <img src="./Deep_Packet_Inspection_TCP.png" alt="Deep Packet Inspection Evidence">
+  <br>
+  <i><b>Figure 3:</b> Detailed inspection of the TCP header identifying source/destination ports and conversation completeness.</i>
+</p>
+
+**📄 Evidence:** [View Technical Packet Log in Journal](./Incident_Handlers_Journal.pdf#page=2)
+</div>
+
+---
+
+<p align="center">
+  <a href="./Incident_Handlers_Journal.pdf">
+    <img src="https://img.shields.io/badge/Download-Full%20Journal%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download PDF">
+  </a>
+</p>
+
 *⬅️ [Back to GiftTech Main Page](../../)*
