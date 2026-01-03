@@ -241,18 +241,19 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
 ---
 # Course 4: Sound the Alarm: Detection and Response
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_Reference_Logo.svg" width="150" alt="Google Logo">
+<div align="center" style="background-color: #f0f4f8; padding: 20px; border: 1px solid #d1d5da; border-radius: 10px;">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status Completed">
+  <img src="https://img.shields.io/badge/Credential-Google%20Cybersecurity-blue?style=flat-square" alt="Credential">
+  <br><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_Reference_Logo.svg" width="80" alt="Google G Logo">
   <br>
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status Completed">
-  <img src="https://img.shields.io/badge/Credential-Google%20Cybersecurity-blue?style=for-the-badge" alt="Credential">
+  <p style="font-family: Arial, sans-serif; color: #586069;">Official validation of skills: <b>NIST standards, risk management, and cryptography</b></p>
   <a href="PASTE_CERTIFICATE_LINK_HERE">
-    <img src="https://img.shields.io/badge/View-Official%20Certificate-orange?style=for-the-badge&logo=google" alt="Google Certificate">
+    <img src="https://img.shields.io/badge/View%20Official%20Certificate-orange?style=for-the-badge&logo=google" alt="View Official Certificate">
   </a>
 </div>
 
 > **Note:** This folder documents my technical progression through Course 4, focusing on incident detection frameworks and deep-packet analysis.
-
 ---
 
 ## 🛡️ Topic 1: Incident Analysis (Healthcare Ransomware)
