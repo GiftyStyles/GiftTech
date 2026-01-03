@@ -239,67 +239,55 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
 * **Evidence:** [📄 View 9_PASTA_Threat_Model_SneakerAPP.pdf](./NIST-Risk-Audit/9_PASTA_Threat_Model_SneakerAPP.pdf)
 
 ---
-# Course 4: Sound the Alarm: Detection and Response
+# 🛡️ Sound the Alarm: Detection and Response 
 
-<div align="center" style="background-color: #f0f4f8; padding: 20px; border: 1px solid #d1d5da; border-radius: 10px;">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status Completed">
-  <img src="https://img.shields.io/badge/Credential-Google%20Cybersecurity-blue?style=flat-square" alt="Credential">
-  <br><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_Reference_Logo.svg" width="80" alt="Google G Logo">
-  <br>
-  <p style="font-family: Arial, sans-serif; color: #586069;">Official validation of skills: <b>NIST standards, risk management, and cryptography</b></p>
-  <a href="PASTE_CERTIFICATE_LINK_HERE">
-    <img src="https://img.shields.io/badge/View%20Official%20Certificate-orange?style=for-the-badge&logo=google" alt="View Official Certificate">
-  </a>
-</div>
+This folder serves as a comprehensive portfolio for the "Detection and Response" module. It documents technical proficiency in identifying security incidents, analyzing network traffic, and performing forensic packet inspection.
 
 > **Note:** This folder documents my technical progression through Course 4, focusing on incident detection frameworks and deep-packet analysis.
----
-
-## 🛡️ Topic 1: Incident Analysis (Healthcare Ransomware)
-
-<div style="background-color: #f9f9f9; padding: 15px; border-left: 5px solid #2196F3; border-radius: 5px;">
-
-### **Objective**
-Analyze a simulated ransomware attack on a healthcare clinic to determine the impact on patient care and business operations.
-
-### **Description**
-Developed an incident overview following the NIST Incident Response lifecycle. I evaluated the risks associated with encrypted patient records and determined the necessity of immediate containment to prevent further spread of the malware.
-
-**📄 Evidence:** [View Ransomware Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=1)
-</div>
 
 ---
 
-## 🔍 Topic 2: Network Traffic Analysis (Wireshark)
+### 📜 **Professional Certification**
 
-<div style="background-color: #f9f9f9; padding: 15px; border-left: 5px solid #4CAF50; border-radius: 5px;">
-
-### **Objective**
-Perform Deep Packet Inspection (DPI) to identify indicators of compromise (IoCs) and verify TCP protocol integrity.
-
-### **Tools Used**
-* **Wireshark**: For packet capture and deep-packet inspection.
-* **Linux Terminal**: For local network environment management.
-
-### **Description**
-Analyzed a `.pcap` file to identify specific communication patterns. I verified the use of TCP Port 80 for unencrypted web traffic and confirmed that the network session reached a status of **'Complete, WITH_DATA,'** proving a successful three-way handshake and data exchange occurred.
-
-### **Technical Evidence**
-<p align="center">
-  <img src="./Detection-and-Response/Deep_Packet_Inspection_TCP.png" alt="Deep Packet Inspection Evidence">
+<div align="center">
+  <img src="https://img.icons8.com/color/144/google-logo.png" width="80">
   <br>
-  <i><b>Figure 3:</b> Detailed inspection of the TCP header identifying source/destination ports and conversation completeness.</i>
-</p>
-
-**📄 Evidence:** [View Technical Packet Log in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=2)
+  
+  **Official validation of skills in NIST standards, risk management, and cryptography.**
+  <br>
+  [📄 View Course Certificate](PASTE_CERTIFICATE_LINK_HERE)
 </div>
 
 ---
 
-<p align="center">
+## 🧪 **Technical Analysis & Lab Activities**
+
+### 📋 **1. Incident Analysis: Healthcare Ransomware Scenario**
+**Incident Response & Business Continuity**
+> **Objective:** Analyze a simulated ransomware attack on a healthcare clinic to determine the impact on patient care and business operations.
+
+* **Action:** Developed a formal incident overview by following the NIST Incident Response lifecycle, identifying risks to patient data and recommending immediate containment steps.
+* **Evidence:** [📄 View Incident_Handlers_Journal.pdf](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=1)
+
+<br>
+
+### 🔍 **2. Lab Practical: Analyze Your First Packet**
+**Network Traffic Analysis & Forensic Inspection**
+> **Objective:** Perform Deep Packet Inspection (DPI) to identify indicators of compromise (IoCs) and verify TCP protocol integrity.
+
+* **Action:** Utilized Wireshark to analyze a `.pcap` file, isolating TCP Port 80 traffic and confirming "Complete, WITH_DATA" status to verify successful data exchange.
+* **Lab Evidence:**
+![Deep_Packet_Inspection_TCP.png](./Detection-and-Response/Deep_Packet_Inspection_TCP.png)
+<br>
+*Figure 3: Detailed inspection of the TCP header identifying source/destination ports and conversation completeness.*
+
+<br>
+
+---
+
+<div align="center">
   <a href="./Detection-and-Response/Incident_Handlers_Journal.pdf">
     <img src="https://img.shields.io/badge/Download-Full%20Journal%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download PDF">
   </a>
-</p>
+</div>
 *⬅️ [Back to GiftTech Main Page](../../)*
