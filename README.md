@@ -305,31 +305,30 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 
 
 ---
-
-# 🛡️ **4. Phishing Incident Response**
+### 🛡️ **4. Phishing Incident Response**
 **Email Artifact Analysis & Forensic Escalation**
+> **Objective:** Identify high-risk indicators within suspicious email artifacts and perform a formal escalation of an infected workstation alert.
 
-**Objective:** Identify high-risk indicators in malicious email artifacts and perform a formal escalation of an infected workstation alert.
+* **Action:** Analyzed email headers for sender mismatches, identified social engineering red flags ("Egnieer"), verified a malicious SHA256 file hash, and updated the incident ticket status to **Escalated**.
 
-**Action:** Analyzed email headers for sender mismatches, identified social engineering red flags ("Egnieer"), verified a malicious SHA256 file hash, and updated the incident ticket to "Escalated" status.
+#### **Lab Evidence**
+![Phishing Email Evidence](./Detection-and-Response/Phishing_Email_Evidence.png)
 
-## **Lab Evidence**
+*Figure 5: Identification of suspicious sender domain, grammatical errors, and malicious attachment hash.*
 
-<div align="center">
-<img src="./Detection-and-Response/Phishing_Email_Evidence.png" width="90%" alt="Phishing Email Evidence"/>
-<br />
-<i>Figure 1: Identification of suspicious sender domain, grammatical errors, and malicious attachment hash.</i>
-<br />
-<br />
+![Phishing Escalated Ticket](./Detection-and-Response/Phishing_Escalated_Ticket.png)
 
-<img src="./Detection-and-Response/Phishing_Escalated_Ticket.png" width="90%" alt="Escalated Ticket"/>
-<br />
-<i>Figure 2: Alert ticket updated to Escalated status with professional analyst documentation.</i>
-<br />
-<br />
+*Figure 6: Alert ticket updated to Escalated status with professional analyst documentation.*
 
 **Evidence:** [📄 View Phishing Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=4)
 
+<br />
+
+<div align="center">
+<a href="./Detection-and-Response/Incident_Handlers_Journal.pdf">
+<img src="https://img.shields.io/badge/Download-Full%20Journal%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download Journal PDF"/>
+</a>
+</div>
 <br />
 
 <div align="center">
