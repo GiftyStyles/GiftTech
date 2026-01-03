@@ -247,7 +247,7 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
   <img src="https://img.shields.io/badge/Credential-Google%20Cybersecurity-blue?style=for-the-badge" alt="Credential">
 </div>
 
-> **Note:** This repository hosts technical documentation and forensic evidence for incident detection and network traffic analysis.
+> **Note:** This folder documents my technical progression through Course 4, focusing on incident detection frameworks and deep-packet analysis.
 
 ---
 
@@ -261,7 +261,7 @@ Analyze a simulated ransomware attack on a healthcare clinic to determine the im
 ### **Description**
 Developed an incident overview following the NIST Incident Response lifecycle. I evaluated the risks associated with encrypted patient records and determined the necessity of immediate containment to prevent further spread of the malware.
 
-**📄 Evidence:** [View Ransomware Analysis in Journal](./Incident_Handlers_Journal.pdf#page=1)
+**📄 Evidence:** [View Ransomware Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=1)
 </div>
 
 ---
@@ -282,18 +282,18 @@ Analyzed a `.pcap` file to identify specific communication patterns. I verified 
 
 ### **Technical Evidence**
 <p align="center">
-  <img src="./Deep_Packet_Inspection_TCP.png" alt="Deep Packet Inspection Evidence">
+  <img src="./Detection-and-Response/Deep_Packet_Inspection_TCP.png" alt="Deep Packet Inspection Evidence">
   <br>
   <i><b>Figure 3:</b> Detailed inspection of the TCP header identifying source/destination ports and conversation completeness.</i>
 </p>
 
-**📄 Evidence:** [View Technical Packet Log in Journal](./Incident_Handlers_Journal.pdf#page=2)
+**📄 Evidence:** [View Technical Packet Log in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=2)
 </div>
 
 ---
 
 <p align="center">
-  <a href="./Incident_Handlers_Journal.pdf">
+  <a href="./Detection-and-Response/Incident_Handlers_Journal.pdf">
     <img src="https://img.shields.io/badge/Download-Full%20Journal%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download PDF">
   </a>
 </p>
