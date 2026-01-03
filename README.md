@@ -284,8 +284,7 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 
 <br>
 
-
-
+<br>
 
 ### 🖥️ **3. CLI Lab: Network Observation with tcpdump**
 **Command-Line Traffic Analysis & Forensic Inspection**
@@ -293,6 +292,10 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 
 * **Action:** Verified `eth0` interface availability, executed live verbose captures, and utilized the `-X` flag to perform hexadecimal and ASCII deep-packet inspections of HTTP traffic.
 * **Evidence:** [📄 View tcpdump Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=3)
+
+
+
+
 ---
 
 <div align="center">
