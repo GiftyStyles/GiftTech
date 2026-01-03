@@ -290,4 +290,15 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
     <img src="https://img.shields.io/badge/Download-Full%20Journal%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download PDF">
   </a>
 </div>
+---
+
+<br>
+
+### 🖥️ **3. CLI Lab: Network Observation with tcpdump**
+**Command-Line Traffic Analysis & Forensic Inspection**
+> **Objective:** Identify active network interfaces and utilize the `tcpdump` utility to capture, filter, and inspect live packet payloads.
+
+* **Action:** Verified `eth0` interface availability, executed live verbose captures, and utilized the `-X` flag to perform hexadecimal and ASCII deep-packet inspections of HTTP traffic.
+* **Evidence:** [📄 View tcpdump Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=3)
+
 *⬅️ [Back to GiftTech Main Page](../../)*
