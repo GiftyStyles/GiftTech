@@ -239,12 +239,13 @@ This folder serves as a comprehensive portfolio for the "Assets, Threats, and Vu
 * **Evidence:** [📄 View 9_PASTA_Threat_Model_SneakerAPP.pdf](./NIST-Risk-Audit/9_PASTA_Threat_Model_SneakerAPP.pdf)
 
 ---
-
 # Course 4: Sound the Alarm: Detection and Response
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status Completed">
   <img src="https://img.shields.io/badge/Credential-Google%20Cybersecurity-blue?style=for-the-badge" alt="Credential">
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="100" alt="Google Logo">
 </div>
 
 > **Note:** This folder documents my technical progression through Course 4, focusing on incident detection frameworks and deep-packet analysis.
@@ -293,9 +294,12 @@ Analyzed a `.pcap` file to identify specific communication patterns. I verified 
 ---
 
 <p align="center">
+  <a href="PASTE_CERTIFICATE_LINK_HERE">
+    <img src="https://img.shields.io/badge/View-Official%20Certificate-orange?style=for-the-badge&logo=google" alt="Google Certificate">
+  </a>
+  <br>
   <a href="./Detection-and-Response/Incident_Handlers_Journal.pdf">
     <img src="https://img.shields.io/badge/Download-Full%20Journal%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download PDF">
   </a>
 </p>
-
 *⬅️ [Back to GiftTech Main Page](../../)*
