@@ -324,6 +324,42 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 **Evidence:** [📄 View Phishing Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=4)
 
 ---
+
+### 🛡️ **5. Intrusion Detection Analysis**
+**Suricata IDS Alerting & JSON Metadata Parsing**
+> **Objective:** Investigate network security events by executing Suricata against packet captures to identify signature-based triggers and validate IDS rule effectiveness.
+
+* **Action:** Deployed Suricata in read-pcap mode, analyzed `fast.log` for immediate alerts, and utilized `jq` to parse the `eve.json` telemetry for deep-flow analysis of Port 80 traffic.
+
+"Date: January 3,
+","Entry: #5
+"
+"2026.
+",
+"Description
+","Conducted a forensic review of network traffic by running Suricata against a
+ sample.pcap file. Analyzed both standard alerts in fast.log and detailed JSON
+ telemetry in eve.json to verify signature triggers."
+"Tool(s) used
+","Suricata IDS, Linux CLI, cat, jq"
+"The 5 W's
+","• Who: Cybersecurity Analyst / SOC Team."
+,"• What: Identified ""GET on wire"" HTTP alerts and parsed log metadata."
+,"• When: During active network traffic inspection using read-pcap mode."
+,"• Where: Communication between local IP 172.21.224.2 and external IP 142.250.1.139."
+,"• Why: To validate the effectiveness of custom IDS rules in detecting outbound HTTP requests."
+
+#### **Lab Evidence**
+![Suricata Fast Log](./screenshots/Suricata_Fast_Log.png)
+*Figure 7: Inspection of fast.log identifying "GET on wire" alerts with Signature ID: 12345.*
+
+![Suricata Eve JSON](./screenshots/Suricata_Eve_JSON.png)
+*Figure 8: Refined jq query extracting flow-specific metadata and destination IPs from eve.json.*
+
+**Evidence:** [📄 View IDS Analysis in Journal](./my_journal.pdf#page=11)
+---
+
+
 ### 🛡️ **6. Security Monitoring & SIEM Querying**
 **Wazuh Threat Hunting & Log Correlation**
 > **Objective:** Execute a targeted threat hunt using SIEM logic to isolate unauthorized brute-force patterns within a 100,000+ event dataset.
