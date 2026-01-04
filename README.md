@@ -350,10 +350,10 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 ,"• Why: To validate the effectiveness of custom IDS rules in detecting outbound HTTP requests."
 
 #### **Lab Evidence**
-![Suricata Fast Log](./screenshots/Suricata_Fast_Log.png)
+![Suricata Fast Log](./Detection-and-Response/Suricata_Fast_Log.png)
 *Figure 7: Inspection of fast.log identifying "GET on wire" alerts with Signature ID: 12345.*
 
-![Suricata Eve JSON](./screenshots/Suricata_Eve_JSON.png)
+![Suricata Eve JSON](./Detection-and-Response/Suricata_Eve_JSON.png)
 *Figure 8: Refined jq query extracting flow-specific metadata and destination IPs from eve.json.*
 
 **Evidence:** [📄 View IDS Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=5)
