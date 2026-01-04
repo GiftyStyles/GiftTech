@@ -255,7 +255,8 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
   
   **Official validation of skills in NIST standards, risk management, and cryptography.**
   <br>
-  [📄 View Course Certificate](PASTE_CERTIFICATE_LINK_HERE)
+  [📄 View Course Certificate](./Detection-and-Response/Detection_Certificate.pdf)
+
 </div>
 
 ---
