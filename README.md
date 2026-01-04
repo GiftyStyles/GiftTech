@@ -372,7 +372,7 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 
 * **Action:** Configured Wazuh KQL filters to monitor the **www3** host, successfully identified 300+ root-level authentication failures, and correlated SIEM alerts with raw `secure.log` data to verify the attack vector.
 
-Date: January 4,
+"Date: January 4,
 ","Entry: #6
 "
 "2026.
