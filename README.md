@@ -390,8 +390,6 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 ,"• Why: Brute-force attack pattern targeting administrative credentials."
 
 #### **Lab Evidence**
-![Wazuh SIEM Dashboard](./screenshots/Wazuh_Dashboard_Query.png)
-*Figure 8: Professional SIEM query execution identifying high-frequency failures on host www3.*
 
 ![Server Log Evidence](./screenshots/figure9_server_log.png)
 *Figure 9: Manual forensic verification of raw secure.log artifacts confirming the brute-force attempt.*
