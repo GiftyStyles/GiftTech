@@ -372,7 +372,7 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 
 * **Action:** Configured Wazuh KQL filters to monitor the **www3** host, successfully identified 300+ root-level authentication failures, and correlated SIEM alerts with raw `secure.log` data to verify the attack vector.
 
-"Date: January 4,
+Date: January 4,
 ","Entry: #6
 "
 "2026.
@@ -384,7 +384,7 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 ","Wazuh SIEM, Kibana Query Language (KQL)"
 "The 5 W's
 ","• Who: Potential malicious actors or automated scripts."
-,"• What: Identified over 300 failed SSH login attempts for the ""root"" account."
+,"• What: Identified over 300 failed SSH login attempts for the ""root"" account.
 ,"• When: Historical activity captured within the logs."
 ,"• Where: The **www3** web server."
 ,"• Why: Brute-force attack pattern targeting administrative credentials."
