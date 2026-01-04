@@ -326,9 +326,9 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 ---
 ### 🛡️ **6. Security Monitoring & SIEM Querying**
 **Wazuh Threat Hunting & Log Correlation**
-> **Objective:** Utilize SIEM logic and Boolean operators to isolate unauthorized access patterns from a massive telemetry dataset (100,000+ events).
+> **Objective:** Utilize SIEM logic and Boolean operators to isolate unauthorized access patterns from a massive telemetry dataset.
 
-* **Action:** Initialized the Wazuh dashboard, applied KQL filters to target the **www3** host, identified over 300 failed SSH attempts on the "root" account, and performed manual log verification of the `secure.log` artifact.
+* **Action:** Initialized the Wazuh dashboard, applied KQL filters to the **www3** host, and performed manual log verification of the `secure.log` artifact.
 
 "Date: January 4,
 ","Entry: #6
@@ -337,29 +337,22 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 ",
 "Description
 ","Simulated Threat Hunt: Analyzed historical security telemetry from the Buttercup
- Games dataset using the Wazuh dashboard. Performed advanced queries to
- isolate unauthorized access attempts on the web server."
+ Games dataset using the Wazuh dashboard to isolate unauthorized access attempts."
 "Tool(s) used
 ","Wazuh SIEM, Kibana Query Language (KQL)"
 "The 5 W's
 ","• Who: Potential malicious actors or automated scripts."
-,"• What: Identified over 300 failed SSH login attempts for the ""root""
- account."
-,"• When: Historical activity captured within the provided logs."
+,"• What: Identified over 300 failed SSH login attempts for the ""root"" account."
+,"• When: Historical activity captured within the logs."
 ,"• Where: The **www3** web server."
 ,"• Why: Brute-force attack pattern targeting administrative credentials."
-"Additional notes
-","Utilized Boolean logic (`host.keyword: www3 AND (fail* OR failed) AND root`)
- to filter 100,000+ events down to 300+ critical alerts."
 
 #### **Lab Evidence**
 ![Wazuh SIEM Dashboard](./screenshots/Wazuh_Dashboard_Query.png)
-
-*Figure 8: Wazuh SIEM interface showing the filtered query results for unauthorized SSH attempts on host www3.*
+*Figure 8: Wazuh SIEM interface showing the filtered query results for host www3.*
 
 ![Server Log Evidence](./screenshots/figure9_server_log.png)
-
-*Figure 9: Manual analysis of www3 authentication logs confirming the high-frequency brute-force attack pattern.*
+*Figure 9: Manual analysis of www3 authentication logs confirming the attack pattern.*
 
 **Evidence:** [📄 View SIEM Analysis in Journal](./my_journal.pdf#page=14)
 
