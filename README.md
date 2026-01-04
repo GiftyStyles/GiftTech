@@ -354,7 +354,7 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 ![Server Log Evidence](./screenshots/figure9_server_log.png)
 *Figure 9: Manual forensic verification of raw secure.log artifacts confirming the brute-force attempt.*
 
-**Evidence:** [📄 View SIEM Analysis in Journal](./my_journal.pdf#page=14)
+**Evidence:** [📄 View SIEM Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=6)
 
 
 <br />
