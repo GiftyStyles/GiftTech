@@ -323,6 +323,64 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 
 **Evidence:** [📄 View Phishing Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=4)
 
+---
+### 🛡️ **6. Security Monitoring & SIEM Querying**
+**Wazuh Threat Hunting & Log Correlation**
+> **Objective:** Utilize SIEM logic and Boolean operators to isolate unauthorized access patterns from a massive telemetry dataset (100,000+ events).
+
+* **Action:** Initialized the Wazuh dashboard, applied KQL filters to target the **www3** host, identified over 300 failed SSH attempts on the "root" account, and performed manual log verification of the `secure.log` artifact.
+
+"Date: January 4,
+","Entry: #6
+"
+"2026.
+",
+"Description
+","Simulated Threat Hunt: Analyzed historical security telemetry from the Buttercup
+ Games dataset using the Wazuh dashboard. Performed advanced queries to
+ isolate unauthorized access attempts on the web server."
+"Tool(s) used
+","Wazuh SIEM, Kibana Query Language (KQL)"
+"The 5 W's
+","• Who: Potential malicious actors or automated scripts."
+,"• What: Identified over 300 failed SSH login attempts for the ""root""
+ account."
+,"• When: Historical activity captured within the provided logs."
+,"• Where: The **www3** web server."
+,"• Why: Brute-force attack pattern targeting administrative credentials."
+"Additional notes
+","Utilized Boolean logic (`host.keyword: www3 AND (fail* OR failed) AND root`)
+ to filter 100,000+ events down to 300+ critical alerts."
+
+#### **Lab Evidence**
+![Wazuh SIEM Dashboard](./screenshots/Wazuh_Dashboard_Query.png)
+
+*Figure 8: Wazuh SIEM interface showing the filtered query results for unauthorized SSH attempts on host www3.*
+
+![Server Log Evidence](./screenshots/figure9_server_log.png)
+
+*Figure 9: Manual analysis of www3 authentication logs confirming the high-frequency brute-force attack pattern.*
+
+**Evidence:** [📄 View SIEM Analysis in Journal](./my_journal.pdf#page=14)
+
+<br />
+
+<div align="center">
+<a href="./my_journal.pdf">
+<img src="https://img.shields.io/badge/Download-Full%20Journal%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download Journal PDF"/>
+</a>
+</div>
+
+---
+
+### 📈 **Final Project Reflections**
+**Consolidated Learning & Framework Application**
+
+* **[span_0](start_span)NIST Lifecycle:** Applied the NIST SP 800-61 framework across six unique labs, transitioning from manual packet capture to enterprise-scale threat detection[span_0](end_span).
+* **[span_1](start_span)Analytical Growth:** Developed the ability to correlate raw log truth with automated SIEM alerts, ensuring a "defense-in-depth" approach to documentation[span_1](end_span).
+* **[span_2](start_span)Professional Standards:** Mastered the "Five W's" of technical reporting to ensure all findings are auditable and actionable for a Security Operations Center (SOC)[span_2](end_span).
+
+
 <br />
 
 
