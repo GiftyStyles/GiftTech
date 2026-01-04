@@ -356,8 +356,14 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 ![Suricata Eve JSON](./screenshots/Suricata_Eve_JSON.png)
 *Figure 8: Refined jq query extracting flow-specific metadata and destination IPs from eve.json.*
 
-**Evidence:** [📄 View IDS Analysis in Journal](./my_journal.pdf#page=11)
+**Evidence:** [📄 View IDS Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=5)
+
+
+
+
 ---
+
+
 
 
 ### 🛡️ **6. Security Monitoring & SIEM Querying**
