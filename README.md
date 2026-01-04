@@ -326,9 +326,9 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 ---
 ### 🛡️ **6. Security Monitoring & SIEM Querying**
 **Wazuh Threat Hunting & Log Correlation**
-> **Objective:** Utilize SIEM logic and Boolean operators to isolate unauthorized access patterns from a massive telemetry dataset.
+> **Objective:** Execute a targeted threat hunt using SIEM logic to isolate unauthorized brute-force patterns within a 100,000+ event dataset.
 
-* **Action:** Initialized the Wazuh dashboard, applied KQL filters to the **www3** host, and performed manual log verification of the `secure.log` artifact.
+* **Action:** Configured Wazuh KQL filters to monitor the **www3** host, successfully identified 300+ root-level authentication failures, and correlated SIEM alerts with raw `secure.log` data to verify the attack vector.
 
 "Date: January 4,
 ","Entry: #6
@@ -349,29 +349,12 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 
 #### **Lab Evidence**
 ![Wazuh SIEM Dashboard](./screenshots/Wazuh_Dashboard_Query.png)
-*Figure 8: Wazuh SIEM interface showing the filtered query results for host www3.*
+*Figure 8: Professional SIEM query execution identifying high-frequency failures on host www3.*
 
 ![Server Log Evidence](./screenshots/figure9_server_log.png)
-*Figure 9: Manual analysis of www3 authentication logs confirming the attack pattern.*
+*Figure 9: Manual forensic verification of raw secure.log artifacts confirming the brute-force attempt.*
 
 **Evidence:** [📄 View SIEM Analysis in Journal](./my_journal.pdf#page=14)
-
-<br />
-
-<div align="center">
-<a href="./my_journal.pdf">
-<img src="https://img.shields.io/badge/Download-Full%20Journal%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download Journal PDF"/>
-</a>
-</div>
-
----
-
-### 📈 **Final Project Reflections**
-**Consolidated Learning & Framework Application**
-
-* **[span_0](start_span)NIST Lifecycle:** Applied the NIST SP 800-61 framework across six unique labs, transitioning from manual packet capture to enterprise-scale threat detection[span_0](end_span).
-* **[span_1](start_span)Analytical Growth:** Developed the ability to correlate raw log truth with automated SIEM alerts, ensuring a "defense-in-depth" approach to documentation[span_1](end_span).
-* **[span_2](start_span)Professional Standards:** Mastered the "Five W's" of technical reporting to ensure all findings are auditable and actionable for a Security Operations Center (SOC)[span_2](end_span).
 
 
 <br />
