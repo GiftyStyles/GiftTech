@@ -398,7 +398,11 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 
 
 
----
+
+
+
+
+
 
 # 🐍 Automate Cybersecurity Tasks with Python
 **Google Cybersecurity Professional Certificate | Technical Portfolio**
