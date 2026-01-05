@@ -397,6 +397,111 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 **Evidence:** [📄 View SIEM Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=6)
 
 
+
+# 🐍 Automate Cybersecurity Tasks with Python
+**Google Cybersecurity Professional Certificate | Technical Portfolio**
+
+### 🎓 **Professional Certification**
+**Google Python Automation Specialist**
+> **Objective:** Mastered Python fundamentals to automate security workflows, parse complex log files, and develop remediation algorithms.
+
+* **Action:** Completed the Python automation curriculum, demonstrating proficiency in data parsing and algorithmic remediation.
+
+"Date: January 5, 2026", "Entry: #1", "Tool(s) used: Python 3.x, VS Code, Jupyter"
+**Credential:** [📜 View Professional Certificate](./Automate-Task-With-Python/Python_Automation_Certificate.pdf)
+
+---
+
+### 🛡️ **1. User-to-Device Verification Algorithm**
+**Conditional Logic & Data Correlation**
+> **Objective:** Cross-reference employee usernames with hardware IDs to detect unauthorized device access.
+
+"Date: January 5, 2026", "Entry: #2"
+"Description: Algorithmic verification of user-device affinity to prevent hardware misuse."
+"Tool(s) used: Python (Conditional Statements, List Indexing)"
+"The 5 W's: 
+• Who: Internal employees and assigned hardware assets.
+• What: Automated check for hardware-to-user alignment.
+• When: System login or hardware audit phase.
+• Where: Corporate network infrastructure.
+• Why: To prevent unauthorized users from accessing the system on unassigned devices."
+
+**Evidence:** [🧪 View Activity_Develop an algorithm-1.pdf](./Automate-Task-With-Python/Activity_Develop%20an%20algorithm-1.pdf)
+
+---
+
+### 🛡️ **2. Security Log Pattern Analysis (Regex)**
+**Regular Expressions & Log Parsing**
+> **Objective:** Execute a targeted extraction of device IDs and IP addresses from login logs to identify vulnerabilities.
+
+"Date: January 4, 2026", "Entry: #3"
+"Description: Used Regular Expressions to automate the identification of outdated systems and malicious IPs."
+"Tool(s) used: Python `re` Module"
+"The 5 W's: 
+• Who: Potential malicious actors and outdated network devices.
+• What: Automated extraction of specific device IDs and IP addresses.
+• When: Scheduled log monitoring and vulnerability scanning.
+• Where: System login attempts and device logs.
+• Why: To automate the detection of security vulnerabilities and brute-force attempts."
+
+**Evidence:** [🧪 View Activity_Use regular expressions to find patterns.pdf](./Automate-Task-With-Python/Activity_Use%20regular%20expressions%20to%20find%20patterns.pdf)
+
+---
+
+### 🛡️ **3. Import and Parse Security Logs**
+**File I/O & String Manipulation**
+> **Objective:** Automate the process of importing and parsing large text-based security logs.
+
+"Date: January 5, 2026", "Entry: #4"
+"Description: Developed scripts to efficiently access and parse information from text-based security logs."
+"Tool(s) used: Python (File Handling, String Methods)"
+"The 5 W's: 
+• Who: Security analysts managing large log datasets.
+• What: Processed login data to extract specific fields for review.
+• When: During routine security log reviews.
+• Where: Organization's internal security database.
+• Why: To allow analysts to efficiently access information from text files."
+
+**Evidence:** [🧪 View Activity_Import and parse a text file.pdf](./Automate-Task-With-Python/Activity_Import%20and%20parse%20a%20text%20file.pdf)
+
+---
+
+### 🛡️ **4. Technical Foundation: Algorithm Development**
+**File Handling & Remediation Logic**
+> **Objective:** Develop a Python algorithm to automate the removal of unauthorized IP addresses from a restricted healthcare access file.
+
+"Date: January 5, 2026", "Entry: #5"
+"Description: Technical foundation for automated maintenance of an IP 'allow list'."
+"Tool(s) used: Python (File I/O, List Methods)"
+"The 5 W's: 
+• Who: Security Analyst at a Healthcare organization.
+• What: Removed unauthorized IP addresses from the allow_list.txt file.
+• When: Real-time update during the access review process.
+• Where: Restricted subnetwork server.
+• Why: To maintain data privacy and system integrity by revoking access for unauthorized users."
+
+**Evidence:** [🧪 View Activity_Create another algorithm.pdf](./Automate-Task-With-Python/Activity_Create%20another%20algorithm.pdf)
+
+---
+
+### 🛡️ **5. PORTFOLIO PIECE: Automated ACL Updates**
+**Advanced Remediation Algorithm**
+> **Objective:** Execute an automated remediation workflow to secure a restricted healthcare subnetwork by programmatically updating access permissions.
+
+"Date: January 5, 2026", "Entry: #6"
+"Description: FINAL PORTFOLIO PROJECT: A comprehensive security automation tool for managing server access."
+"Tool(s) used: Python, File I/O, List Manipulation"
+"The 5 W's: 
+• Who: Senior Security Analyst.
+• What: Automated the cleanup of a restricted IP allow list.
+• When: Project completion phase of the Python Automation course.
+• Where: Healthcare Network Infrastructure.
+• Why: To demonstrate professional-grade automation and secure data handling."
+
+#### **Portfolio Evidence**
+
+
+**Evidence:** [📄 View Automated_ACL_Update_Project.pdf](./Automate-Task-With-Python/Automated_ACL_Update_Project.pdf)
 <br />
 
 
