@@ -398,23 +398,33 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 
 
 
+---
+
 # 🐍 Automate Cybersecurity Tasks with Python
 **Google Cybersecurity Professional Certificate | Technical Portfolio**
 
+<div align="center">
+  <img src="https://img.icons8.com/color/144/google-logo.png" width="80">
+  <br>
+  
+  **Official validation of skills in NIST standards, risk management, and cryptography.**
+  <br>
+  
 ### 🎓 **Professional Certification**
 **Google Python Automation Specialist**
 > **Objective:** Mastered Python fundamentals to automate security workflows, parse complex log files, and develop remediation algorithms.
 
-* **Action:** Completed the Python automation curriculum, demonstrating proficiency in data parsing and algorithmic remediation.
-
 "Date: January 5, 2026", "Entry: #1", "Tool(s) used: Python 3.x, VS Code, Jupyter"
 **Credential:** [📜 View Professional Certificate](./Automate-Task-With-Python/Python_Automation_Certificate.pdf)
+</div>
 
 ---
 
 ### 🛡️ **1. User-to-Device Verification Algorithm**
 **Conditional Logic & Data Correlation**
-> **Objective:** Cross-reference employee usernames with hardware IDs to detect unauthorized device access.
+> **Objective:** Connect users to their assigned devices by cross-referencing usernames with hardware IDs to detect unauthorized system access.
+
+* **Action:** Created an automated verification function using `.index()` and nested `if/else` statements to confirm if a user is operating their designated equipment.
 
 "Date: January 5, 2026", "Entry: #2"
 "Description: Algorithmic verification of user-device affinity to prevent hardware misuse."
@@ -426,13 +436,15 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 • Where: Corporate network infrastructure.
 • Why: To prevent unauthorized users from accessing the system on unassigned devices."
 
-**Evidence:** [🧪 View Activity_Develop an algorithm-1.pdf](./Automate-Task-With-Python/Activity_Develop%20an%20algorithm-1.pdf)
+**Evidence:** [🧪 View Verification Lab Analysis](./Automate-Task-With-Python/Activity_Develop%20an%20algorithm-1.pdf)
 
 ---
 
 ### 🛡️ **2. Security Log Pattern Analysis (Regex)**
 **Regular Expressions & Log Parsing**
 > **Objective:** Execute a targeted extraction of device IDs and IP addresses from login logs to identify vulnerabilities.
+
+* **Action:** Configured `re.findall()` patterns to isolate devices requiring critical software updates and correlate flagged IP addresses.
 
 "Date: January 4, 2026", "Entry: #3"
 "Description: Used Regular Expressions to automate the identification of outdated systems and malicious IPs."
@@ -444,31 +456,35 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 • Where: System login attempts and device logs.
 • Why: To automate the detection of security vulnerabilities and brute-force attempts."
 
-**Evidence:** [🧪 View Activity_Use regular expressions to find patterns.pdf](./Automate-Task-With-Python/Activity_Use%20regular%20expressions%20to%20find%20patterns.pdf)
+**Evidence:** [🧪 View Regex Pattern Analysis](./Automate-Task-With-Python/Activity_Use%20regular%20expressions%20to%20find%20patterns.pdf)
 
 ---
 
 ### 🛡️ **3. Import and Parse Security Logs**
 **File I/O & String Manipulation**
-> **Objective:** Automate the process of importing and parsing large text-based security logs.
+> **Objective:** Automate the process of importing and parsing large text-based security logs to extract specific login attempt data.
+
+* **Action:** Utilized the `.read()` and `.split()` methods to transform raw text file data into manageable lists for security analysis.
 
 "Date: January 5, 2026", "Entry: #4"
 "Description: Developed scripts to efficiently access and parse information from text-based security logs."
 "Tool(s) used: Python (File Handling, String Methods)"
 "The 5 W's: 
 • Who: Security analysts managing large log datasets.
-• What: Processed login data to extract specific fields for review.
+• What: Processed login data to extract specific fields.
 • When: During routine security log reviews.
 • Where: Organization's internal security database.
 • Why: To allow analysts to efficiently access information from text files."
 
-**Evidence:** [🧪 View Activity_Import and parse a text file.pdf](./Automate-Task-With-Python/Activity_Import%20and%20parse%20a%20text%20file.pdf)
+**Evidence:** [🧪 View Log Parsing Lab Analysis](./Automate-Task-With-Python/Activity_Import%20and%20parse%20a%20text%20file.pdf)
 
 ---
 
 ### 🛡️ **4. Technical Foundation: Algorithm Development**
 **File Handling & Remediation Logic**
 > **Objective:** Develop a Python algorithm to automate the removal of unauthorized IP addresses from a restricted healthcare access file.
+
+* **Action:** Implemented `with open()` for secure file access, utilized `.split()` for data parsing, and built a `for` loop with `.remove()` logic to programmatically purge unauthorized IPs.
 
 "Date: January 5, 2026", "Entry: #5"
 "Description: Technical foundation for automated maintenance of an IP 'allow list'."
@@ -480,13 +496,15 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 • Where: Restricted subnetwork server.
 • Why: To maintain data privacy and system integrity by revoking access for unauthorized users."
 
-**Evidence:** [🧪 View Activity_Create another algorithm.pdf](./Automate-Task-With-Python/Activity_Create%20another%20algorithm.pdf)
+**Evidence:** [🧪 View Algorithmic Logic Lab Analysis](./Automate-Task-With-Python/Activity_Create%20another%20algorithm.pdf)
 
 ---
 
 ### 🛡️ **5. PORTFOLIO PIECE: Automated ACL Updates**
 **Advanced Remediation Algorithm**
 > **Objective:** Execute an automated remediation workflow to secure a restricted healthcare subnetwork by programmatically updating access permissions.
+
+* **Action:** Developed a modular Python script that parses server logs, identifies unauthorized entries, and rewrites the permission file to ensure 100% compliance with access policies.
 
 "Date: January 5, 2026", "Entry: #6"
 "Description: FINAL PORTFOLIO PROJECT: A comprehensive security automation tool for managing server access."
@@ -501,7 +519,9 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 #### **Portfolio Evidence**
 
 
-**Evidence:** [📄 View Automated_ACL_Update_Project.pdf](./Automate-Task-With-Python/Automated_ACL_Update_Project.pdf)
+**Evidence:** [📄 View Numbered Portfolio Report](./Automate-Task-With-Python/Automated_ACL_Update_Project.pdf)
+
+
 <br />
 
 
