@@ -397,11 +397,7 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 **Evidence:** [📄 View SIEM Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=6)
 
 
-
-
-
-
-
+<br>
 
 
 # 🐍 Automate Cybersecurity Tasks with Python
