@@ -589,7 +589,7 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 
 <div align="center">
   
-##**Verified by Google: Professional readiness in the cybersecurity ecosystem.**
+## **Verified by Google: Professional readiness in the cybersecurity ecosystem.**
 
   
 </div>
