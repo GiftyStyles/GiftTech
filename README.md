@@ -396,15 +396,16 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 
 **Evidence:** [📄 View SIEM Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=6)
 
-<br />
+<br>
 
 <div align="center">
 <a href="./Detection-and-Response/Incident_Handlers_Journal.pdf">
 <img src="https://img.shields.io/badge/Download-Full%20Journal%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download Journal PDF"/>
 </a>
 </div>
-<br>
+---
 
+<br>
 
 # 🐍 Automate Cybersecurity Tasks with Python
 **Google Cybersecurity Professional Certificate | Technical Portfolio**
