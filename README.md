@@ -521,6 +521,67 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 
 **Evidence:** [📄 View Numbered Portfolio Report](./Automate-Task-With-Python/Automated_ACL_Update_Project.pdf)
 
+<br>
+
+# 📈 Cybersecurity Career Strategy & AI Optimization
+**Google Cybersecurity Professional Certificate | Professional Growth Portfolio**
+
+---
+
+### 🛡️ **1. Prepare for Cybersecurity Jobs**
+<div align="center">
+  <img src="https://img.icons8.com/color/144/google-logo.png" width="80">
+  <br>
+  
+  **Credential:** [📜 View Job Preparation Certificate](./Cybersecurity-Career-Development/Prepare_for_Cybersecurity_Jobs_Certificate.pdf)
+  <br>
+  
+  **Official validation of skills in NIST standards, risk management, and professional readiness.**
+</div>
+
+> **Objective:** Translate technical proficiency into professional value by aligning hands-on experience with the NIST Cybersecurity Framework (CSF).
+
+* **Action:** Created a professional narrative by mapping technical lab activities (Python automation, SIEM analysis) to the **Identify, Protect, Detect, Respond, and Recover** functions of the NIST CSF.
+
+"Entry: #1", "Focus: Professional Readiness & Portfolio Strategy"
+"The 5 W's: 
+• Who: Aspiring Cybersecurity Analyst.
+• What: Strategic alignment of technical skills with organizational security goals.
+• When: Career preparation and job market entry phase.
+• Where: Professional networking platforms and technical portfolios (GitHub/LinkedIn).
+• Why: To bridge the gap between "learning a skill" and "solving business security risks" for hiring managers."
+
+---
+
+### 🤖 **2. Accelerate Your Job Search with AI**
+<div align="center">
+  <img src="https://img.icons8.com/color/144/google-logo.png" width="80">
+  <br>
+  
+  **Credential:** [📜 View AI Strategy Certificate](./Cybersecurity-Career-Development/Accelerate_with_AI_Certificate.pdf)
+  <br>
+  
+  **Official validation of skills in Generative AI for professional workflow optimization.**
+</div>
+
+> **Objective:** Leverage Generative AI tools to enhance the quality of technical documentation and increase efficiency in the job application lifecycle.
+
+* **Action:** Mastered prompt engineering techniques to refine technical summaries, optimize resumes for Applicant Tracking Systems (ATS), and practice technical interview scenarios using AI as a simulator.
+
+"Entry: #2", "Focus: Generative AI & Productivity"
+"The 5 W's: 
+• Who: Tech-forward Security Professional.
+• What: Application of Generative AI for professional branding and technical writing.
+• When: Advanced job search and interview preparation phase.
+• Where: Technical documentation and professional communications.
+• Why: To stay competitive in a tech-driven market and demonstrate the ability to use AI for operational efficiency."
+
+---
+
+<div align="center">
+**Verified by Google: Professional readiness in the cybersecurity ecosystem.**
+</div>
+
 
 <br />
 
