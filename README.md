@@ -586,7 +586,6 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 • Where: Technical documentation and professional communications.
 • Why: To stay competitive in a tech-driven market and demonstrate the ability to use AI for operational efficiency."
 
----
 
 <div align="center">
   
