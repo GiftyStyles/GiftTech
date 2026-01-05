@@ -396,6 +396,7 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 
 **Evidence:** [📄 View SIEM Analysis in Journal](./Detection-and-Response/Incident_Handlers_Journal.pdf#page=6)
 
+<br />
 
 <div align="center">
 <a href="./Detection-and-Response/Incident_Handlers_Journal.pdf">
@@ -584,12 +585,11 @@ This folder serves as a comprehensive portfolio for the "Detection and Response"
 ---
 
 <div align="center">
+  
 **Verified by Google: Professional readiness in the cybersecurity ecosystem.**
+
+  
 </div>
-
-
-<br />
-
 
 
 
